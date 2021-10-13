@@ -1,0 +1,165 @@
+#under-construction {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background: url(./../../assets/images/bg.jpg) no-repeat fixed center/cover;
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+  }
+
+  a {
+    color: #fff;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 6px;
+    color: #fff;
+    line-height: 43px;
+  }
+
+  .box {
+    position: absolute;
+  }
+
+  .under-construction {
+    p {
+      margin-left: -20px;
+    }
+  }
+
+  .first-col {
+    width: 300px;
+  }
+
+  .last-col {
+    width: 480px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  #under-construction {
+    .box {
+      left: 37%;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1599px) {
+  #under-construction {
+    .box {
+      left: 30%;
+    }
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #under-construction {
+    p {
+      font-size: 33px;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  #under-construction {
+    p {
+      font-size: 24px;
+    }
+
+    .under-construction {
+      p {
+        margin-left: -14px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #under-construction {
+    .box {
+      bottom: 94px;
+    }
+
+    .under-construction {
+      margin-bottom: 108px;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  #under-construction {
+    p {
+      font-size: 18px;
+    }
+
+    .box {
+      bottom: 94px;
+    }
+
+    .under-construction {
+      margin-bottom: 27px;
+
+      p {
+        margin-left: -10px;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #under-construction {
+    .overlay {
+      margin: 95px 100px;
+      overflow: hidden;
+    }
+
+    .logo-box {
+      position: absolute;
+      top: 11px;
+      left: -45px;
+    }
+
+    .box {
+      bottom: 20px;
+      right: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #under-construction {
+    .overlay {
+      overflow: auto;
+    }
+
+    .logo-box {
+      display: block;
+      text-align: center;
+    }
+
+    .box {
+      right: 0;
+      left: 0;
+      padding: 40px 20px;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    .under-construction {
+      margin-bottom: 54px;
+
+      p {
+        margin-left: -10px;
+      }
+    }
+  }
+}

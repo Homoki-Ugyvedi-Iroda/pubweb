@@ -1,0 +1,53 @@
+* {
+  outline: none;
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin-top: 70px;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  display: inline-block;
+  width: 100%;
+  border-color: var(--color-black);
+}
+
+noscript {
+  .no-js {
+    position: fixed;
+    padding: 4px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-black);
+    color: var(--color-white);
+    text-align: center;
+  }
+
+  > img {
+    display: none;
+    width: 1px;
+    height: 1px;
+  }
+
+  > iframe {
+    display: none;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+  }
+}

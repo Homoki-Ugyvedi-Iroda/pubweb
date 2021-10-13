@@ -1,0 +1,20 @@
+<div id="recent-posts">
+  <h3>
+    <div class="underline"></div>{% t recent_posts %}
+  </h3>
+
+  {% for post in site.posts limit:3 %}
+  <h4 class="post-title">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      {{ post.title }}
+    </a>
+  </h4>
+  <hr class="my-16 line-w-small">
+  <small class="post-details">{ {{ post.author }} / {{ post.date |
+    date: "%y.%m.%d" }} }</small>
+  {% endfor %}
+
+  {% if page.id == 'home' %}
+  <hr class="mt-35 mb-0">
+  {% endif %}
+</div>

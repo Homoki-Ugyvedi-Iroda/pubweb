@@ -1,0 +1,35 @@
+#tags {
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: var(--font-family-bold);
+    text-transform: lowercase;
+  }
+
+  span {
+    display: inline-block;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    padding: 0 6px;
+    color: var(--color-heavy-metal);
+    background-color: var(--color-silver);
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #tags {
+    span {
+      font-size: 20px;
+      line-height: 26px;
+    }
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #tags {
+    span {
+      font-size: 16px;
+      line-height: 22px;
+    }
+  }
+}

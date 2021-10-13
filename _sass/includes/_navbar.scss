@@ -1,0 +1,163 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  height: 70px;
+
+  .nav {
+    flex: 1;
+    height: 70px;
+    background-color: var(--color-silver);
+  }
+
+  .navbar-brand {
+    display: block;
+    width: 35px;
+    height: 35px;
+  }
+
+  .menu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -20px;
+
+    &-item {
+      margin-left: 14px;
+      margin-right: 14px;
+    }
+
+    &-link {
+      padding: 4px;
+      color: var(--color-white);
+      font-size: 18px;
+      line-height: 24px;
+      text-transform: lowercase;
+    }
+  }
+
+  .nav-secondary {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 140px;
+    background-color: var(--color-white);
+  }
+
+  .language-switcher,
+  .mobile-language-switcher {
+    a {
+      color: var(--color-red);
+      font-family: var(--font-family-bold);
+      font-size: 20px;
+      line-height: 24px;
+    }
+  }
+
+  .mobile-menu-checkbox {
+    display: none;
+
+    &:checked ~ .mobile-menu {
+      display: block;
+    }
+  }
+
+  .mobile-menu-toggler {
+    display: block;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+
+    span {
+      top: 24px;
+      left: 10px;
+
+      &::before {
+        top: -10px;
+      }
+
+      &::after {
+        bottom: -10px;
+      }
+
+      &::before,
+      &::after {
+        content: '';
+      }
+    }
+
+    span,
+    span::before,
+    span::after {
+      display: block;
+      position: absolute;
+      width: 30px;
+      height: 3px;
+      background-color: black;
+      transition: all 0.3s ease-in-out;
+    }
+
+    &.active {
+      span {
+        background-color: transparent;
+
+        &::before,
+        &::after {
+          top: 0;
+          background-color: black;
+        }
+
+        &::before {
+          transform: rotate(45deg);
+        }
+
+        &::after {
+          transform: rotate(-45deg);
+        }
+      }
+    }
+  }
+
+  .mobile-menu {
+    display: none;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background-color: var(--color-white);
+
+    &-item {
+      padding: 12px;
+      text-align: center;
+    }
+
+    &-link {
+      color: var(--color-black);
+      font-size: 18px;
+      line-height: 24px;
+      text-transform: lowercase;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+    .mobile {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .navbar {
+    .desktop,
+    .language-switcher {
+      display: none;
+    }
+  }
+}

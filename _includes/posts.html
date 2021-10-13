@@ -1,0 +1,107 @@
+<section id="posts">
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col col-md-8">
+
+        {% for post in paginator.posts limit:1 %}
+        <h2 class="post-title">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <hr class="mt-10 line-w-large">
+        <small class="post-details">
+          { {{ post.author }} / {{ post.date | date: "%y.%m.%d" }} }
+        </small>
+        <div class="post-content">
+          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
+          <div class="post-data">
+            <div class="relative">
+              <div class="white-right-arrow"></div>
+
+              <div class="post-excerpt">
+                {{ post.excerpt }}
+              </div>
+
+              <a href="{{ post.url | prepend: site.baseurl }}"
+                class="read-more-button">
+                /{% t read_more %}/
+              </a>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+
+      </div>
+
+      <div class="col col-md-4">
+
+        {% include tags.html %}
+
+        <hr class="my-50">
+
+        {% include recent-posts.html %}
+
+      </div>
+
+    </div>
+
+    {% for post in paginator.posts offset:1 %}
+    <div class="row border-top">
+
+      <div class="col col-md-8">
+
+        <h2 class="post-title">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h2>
+        <hr class="mt-10 line-w-large">
+        <small class="post-details">
+          { {{ post.author }} / {{ post.date | date: "%y.%m.%d" }} }
+        </small>
+        <div class="post-content">
+          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
+          <div class="post-data">
+            <div class="relative">
+              <div class="white-right-arrow"></div>
+
+              <div class="post-excerpt">
+                {{ post.excerpt }}
+              </div>
+
+              <a href="{{ post.url | prepend: site.baseurl }}"
+                class="read-more-button">
+                /{% t read_more %}/
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="col-md-4"></div>
+
+    </div>
+    {% endfor %}
+
+    {% if paginator.page_trail %}
+    <div class="pagination-container">
+      <div class="black-left-arrow"></div>
+
+      <ul class="pagination">
+        {% for trail in paginator.page_trail %}
+        <li {% if page.url == trail.path %}class="selected" {% endif %}>
+          <a href="{{ trail.path | prepend: site.baseurl }}">{{ trail.num }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <div class="black-right-arrow"></div>
+    </div>
+    {% endif %}
+
+  </div>
+</section>

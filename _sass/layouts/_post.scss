@@ -1,0 +1,38 @@
+article {
+  .intro {
+    position: relative;
+    min-height: 530px;
+  }
+
+  .intro-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-bottom-right-radius: 250px 250px;
+    z-index: -1;
+    object-fit: cover;
+  }
+
+  .post-background {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background: url(./../../assets/images/post-background.png) no-repeat;
+    background-position: top -570px left;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  article {
+    .intro-background {
+      left: 0;
+    }
+  }
+}
+
+@media screen and (min-width: 992px) {
+  article {
+    .intro-background {
+      right: 140px;
+    }
+  }
+}

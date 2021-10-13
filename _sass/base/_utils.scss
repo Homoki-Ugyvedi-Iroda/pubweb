@@ -1,0 +1,297 @@
+.page-home .navbar .navbar-brand {
+  display: none;
+}
+
+.page-title-hidden {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 100%;
+}
+
+.container-fluid {
+  max-width: 100%;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.col {
+  flex: 1 0 0%;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 100%;
+  max-width: 100%;
+
+  &-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+
+  &-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.h-min-100vh {
+  min-height: 100vh;
+}
+
+@each $size in 10, 35, 50, 80 {
+  .mt-#{$size} {
+    margin-top: #{$size}px;
+  }
+}
+
+@each $size in 0, 12, 36, 100 {
+  .mb-#{$size} {
+    margin-bottom: #{$size}px;
+  }
+}
+
+@each $size in 16, 50 {
+  .my-#{$size} {
+    margin-top: #{$size}px;
+    margin-bottom: #{$size}px;
+  }
+}
+
+@each $size in 100 {
+  .mr-#{$size} {
+    margin-right: #{$size}px;
+  }
+}
+
+.line-w-small {
+  max-width: 72px;
+}
+
+.line-w-large {
+  max-width: 540px;
+}
+
+.line-w-full {
+  max-width: 100%;
+}
+
+.page-background {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: url(./../../assets/images/background.png) no-repeat 100%;
+}
+
+.read-more-button {
+  display: inline-block;
+  margin-top: 20px;
+  color: var(--color-apricot);
+  font-family: var(--font-family-bold);
+  font-size: 20px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.relative {
+  position: relative;
+}
+
+.pagination-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 110px 0 0 0;
+
+  .pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0 4px;
+      background-color: var(--color-silver);
+
+      &.selected {
+        background-color: var(--color-heavy-metal);
+      }
+    }
+
+    a {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      width: 40px;
+      height: 40px;
+      color: var(--color-white);
+      font-family: var(--font-family-bold);
+      font-size: 20px;
+      line-height: 26px;
+    }
+  }
+}
+
+.underline {
+  display: inline-block;
+
+  &::before {
+    content: '_';
+  }
+}
+
+.white-right-arrow {
+  position: absolute;
+  left: -20px;
+  width: 20px;
+  height: 20px;
+  background: url(./../../assets/images/white-right-arrow.svg);
+}
+
+.black-left-arrow {
+  margin-right: 30px;
+  width: 30px;
+  height: 30px;
+  background: url(./../../assets/images/black-left-arrow.svg);
+}
+
+.black-right-arrow {
+  margin-left: 30px;
+  width: 30px;
+  height: 30px;
+  background: url(./../../assets/images/black-right-arrow.svg);
+}
+
+@media screen and (min-width: 768px) {
+  .col-md {
+    &-4 {
+      flex: 0 0 auto;
+      width: 33.33333333%;
+    }
+
+    &-6 {
+      flex: 0 0 auto;
+      width: 50%;
+    }
+
+    &-8 {
+      flex: 0 0 auto;
+      width: 66.66666667%;
+    }
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .contanier {
+    max-width: 540px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+
+  .col-lg {
+    flex: 1 0 0%;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    &-4 {
+      flex: 0 0 auto;
+      width: 33.33333333%;
+    }
+
+    &-8 {
+      flex: 0 0 auto;
+      width: 66.66666667%;
+    }
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+
+  .col-xl {
+    &-3 {
+      flex: 0 0 auto;
+      width: 25%;
+    }
+
+    &-6 {
+      flex: 0 0 auto;
+      width: 50%;
+    }
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+
+@media screen and (min-width: 1700px) {
+  .container {
+    max-width: 1640px;
+  }
+}

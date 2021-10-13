@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article>
+
+  <div class="intro">
+    <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt=""
+      class="intro-background">
+  </div>
+
+  <div class="post-background">
+    {% include post.html %}
+    {% include related-posts.html %}
+    {% include scroll-to-top.html %}
+  </div>
+
+</article>

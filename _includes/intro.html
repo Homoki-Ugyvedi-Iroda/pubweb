@@ -1,0 +1,42 @@
+<section id="intro">
+  <div class="overlay"></div>
+
+  <img src="{{ '/assets/images/intro.jpg' | relative_url }}" alt=""
+    class="intro-background">
+
+  <div class="container">
+    <div class="flex flex-col justify-content-between h-min-100vh">
+      <div class="mt-50">
+        <a href="{{ '/' | prepend: site.baseurl }}" class="logo-box">
+          <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="logo"
+            class="logo">
+        </a>
+      </div>
+
+      <div class="mb-100 mr-100">
+        <div class="caption">
+          <div class="underline"></div>{% t everyone_does_it_differently %}
+        </div>
+
+        {% for post in site.posts limit:1 %}
+        <h2 class="post-title">{{ post.title }}</h2>
+        <small class="post-details">{ {{ post.author }} / {{ post.date | date:
+          "%y.%m.%d" }} }</small>
+        <div class="post-data">
+          <div class="white-right-arrow"></div>
+
+          <div class="post-excerpt">
+            {{ post.excerpt }}
+          </div>
+
+          <a href="{{ post.url | prepend: site.baseurl }}"
+            class="read-more-button">
+            /{% t read_more %}/
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+</section>

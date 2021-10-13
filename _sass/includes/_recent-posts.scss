@@ -1,0 +1,42 @@
+#recent-posts {
+  h3 {
+    margin-bottom: 50px;
+    font-family: var(--font-family-bold);
+    text-transform: lowercase;
+  }
+
+  .post-title {
+    margin: 0;
+
+    a {
+      color: var(--color-heavy-metal);
+      font-family: var(--font-family-bold);
+      font-size: 25px;
+      line-height: 32px;
+    }
+  }
+
+  .post-details {
+    display: block;
+    margin-bottom: 35px;
+    color: var(--color-heavy-metal);
+  }
+}
+
+@media screen and (min-width: 992px) {
+  #recent-posts {
+    .post-details {
+      font-size: 12px;
+      line-height: 16px;
+    }
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #recent-posts {
+    .post-details {
+      font-size: 10px;
+      line-height: 14px;
+    }
+  }
+}

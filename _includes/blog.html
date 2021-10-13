@@ -1,0 +1,20 @@
+<div id="blog">
+
+  <section id="blog-intro">
+    <div class="overlay"></div>
+
+    <img src="{{ '/assets/images/blog-intro.jpg' | relative_url }}" alt=""
+      class="intro-background">
+
+    <div class="container">
+      <h1 class="page-title-hidden">{% t page.title %}</h1>
+      <div class="short-description">{% t blog.title %}</div>
+    </div>
+  </section>
+
+  <div class="page-background">
+    {% include posts.html %}
+    {% include scroll-to-top.html %}
+  </div>
+
+</div>

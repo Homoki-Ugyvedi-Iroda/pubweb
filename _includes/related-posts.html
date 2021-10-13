@@ -1,0 +1,44 @@
+<section id="related-posts">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h2>
+          <div class="underline"></div>{% t related_articles %}
+        </h2>
+
+        {% if site.related_posts %}
+        <div class="row">
+          {% for post in site.related_posts limit:4 %}
+          {% assign match = false %}
+          {% for tag in post.tags %}
+          {% if page.tags contains tag %}
+          {% assign match = true %}
+          {% endif %}
+          {% endfor %}
+          {% if match %}
+          <div class="col col-md-6 col-xl-3">
+            <div class="post-content">
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                <h3>{{ post.title }}</h3>
+                <div class="caption">
+                  <div>
+                    {{ post.date | date: "%y.%m.%d" }}
+                  </div>
+                  <div>
+                    {% for tag in post.tags limit:2 %}
+                    <span>› {{ tag }}</span>
+                    {% endfor %}
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+          {% endif %}
+          {% endfor %}
+        </div>
+        {% endif %}
+
+      </div>
+    </div>
+  </div>
+</section>
