@@ -1,7 +1,7 @@
 # Használati útmutató
 
 ## Mappa struktúra
-
+A weboldal Jekyll megoldásra épül, amely egy Ruby nyelven kialakított ún. statikus weboldal (site) generátor (egy Ruby-féle csomag, azaz gem csomag). A GitHub repository-ban történő bármilyen módosítás esetén lefut a jekyll.yml szerinti Jekyll CI workflow, ami újra felépíti (build), majd elérhetővé teszi (deploy) a frissített weboldal tartalmat a módosított fájlok alapján.
 - `_i18n`: Ebben vannak a különböző nyelvű alkönyvtárak és fájlok. A különböző nyelvű alkönyvtárakban lévő `_posts` könyvtárba lehet új cikkeket létrehozni. A különböző nyelvű fájlokban (`hu.yml`, `en.yml`) találhatók a változók, ahol a szövegeket lehet lefordítani globálisan az angol kulcsszóval.
 - `_includes`: Tartalmazza a `.html` fájlokat, amik megfelelnek az egyes komponenseknek.
 - `_layouts`: A sablonokat tartalmazza.
