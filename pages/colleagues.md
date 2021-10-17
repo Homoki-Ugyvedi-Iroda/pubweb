@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: titles.colleagues
 permalink: /colleagues
 id: colleagues
