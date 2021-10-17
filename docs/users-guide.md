@@ -20,3 +20,6 @@ Az `_i18n/{{ nyelv }}/_posts` mappában tudod létrehozni a fájlokat `dátum-ci
 ## Képek feltöltése
 
 A pl.: `_i18n/{{ nyelv }}/_posts/2021-10-12-hello-world.md`-ben található az `image` értéke, ami kapcsolódik az `assets/images/` könyvtárban lévő fájlhoz, ahova feltöltheted a képeket vagy módosíthatod.
+
+## Hivatkozások yml-ben:
+Lásd [itt](https://mademistakes.com/mastering-jekyll/how-to-link/)
