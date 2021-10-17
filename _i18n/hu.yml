@@ -14,19 +14,20 @@ menu:
 titles:
   under_construction: Az oldal fejlesztés alatt
   home: Főoldal
-  blog: Cikkek
+  blog: Gondolatok
   error: '404'
 
-everyone_does_it_differently: Mindenki másképp csinálja
+everyone_does_it_differently: Az ügyvédi irodai gondolatok digitális kertje
 read_more: Tovább
-more_articles: További cikkek
+more_articles: További gondolatok
 tags: Címkék
-recent_posts: Legutóbbi bejegyzések
+recent_posts: Legutóbbi gondolatok
 
 office:
   title: Az iroda
-  short_description: A Homoki Ügyvédi Iroda kizárólag informatikai és távközlési ügyfelekre szakosodott magyar ügyvédi iroda.
-  description: Az irodavezető ügyvéd, dr. Homoki Péter 2000 óta kizárólag e területen szerezte ügyvédi tapasztalatát, önéletrajza elérhető a LinkedIn oldalán. Az iroda ügyfélkörét alapvetően hazai és külföldi kis- és nagyvállalatok képezik. Speciális szakismeretet igénylő ügyekben természetesen magánszemélyeknek is készséggel nyújtunk segítséget.Egyedülálló tapasztalatokkal rendelkezünk az elektronikus ügyintézéssel és digitalizációval összefüggő jogi és szabályozási kérdések megválaszolásában.
+  short_description: A Homoki Ügyvédi Iroda kizárólag informatikai ügyekkel foglalkozó magyar ügyvédi iroda.
+  description: Széles körű és egyedülálló ügyvédi tapasztalattal rendelkezünk az informatikai iparág területén. Az e téren szerzett több mint húsz éves szakmai tapasztalatnak köszönhetően 
+felismerjük az ügyfeleinket fenyegető lényeges jogi kockázatokat, legyen szó informatikai szolgáltatások megrendelőiről vagy szállítóiról. A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani. Az irodavezető ügyvéd, dr. Homoki Péter 2000 óta kizárólag e területen szerezte ügyvédi tapasztalatát, önéletrajza elérhető a [LinkedIn oldalán]<https://www.linkedin.com/in/homoki/>.
 
 contact:
   title: Kapcsolat
@@ -36,10 +37,10 @@ contact:
   send_a_message: Üzenetet küldök
 
 blog:
-  title: Ut malesuada porta finibus, donec auctor iaculis odio ut tincidunt.
+  title: Nézelődjön a „digitális kertünkben”! Itt időről-időre közzétesszük azokat az irodai dolgozói által készített, az informatika és a jog területével kapcsolatos gondolatokat, illetve a külső weboldalokon elérhető különféle publikációkat, eseményeket.
 
 back: Vissza
 
 related_articles: Kapcsolódó cikkek
 
-footer: Minden jog fenntartva
+footer: Személyi adatait nem kezeljük, cookie-t nem helyezünk el, ha ilyet talál, nem mi raktuk oda, hanem a böngészője. A digitális kert gondolatait és bármit, amit a weboldalon olvas, ne tekintse jogi szolgáltatásnak. Ilyet csak megbízási szerződés alapján nyújtunk.
