@@ -1,6 +1,9 @@
 <div class="page-not-found">
   <img src="{{ '/assets/images/error.svg' | relative_url }}" alt="">
   <h1>{% t page.title %}</h1>
-  <p>Page not found :(</p>
+  {% if site.lang == "hu" %}
+  <p>A keresett oldal nem található.</p>
+  {% elsif site.lang == "en" %}
   <p>The requested page could not be found.</p>
+  {% endif %}
 </div>
