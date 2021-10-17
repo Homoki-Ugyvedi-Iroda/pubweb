@@ -8,8 +8,13 @@
     <div class="flex flex-col justify-content-between h-min-100vh">
       <div class="mt-50">
         <a href="{{ '/' | prepend: site.baseurl }}" class="logo-box">
-          <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="logo"
+            {% if site.lang == "hu" %}
+            <img src="{{ '/assets/images/logo_hu.svg' | relative_url }}" alt="logo"
+            class="logo">          
+            {% elsif site.lang == "en" %}
+            <img src="{{ '/assets/images/logo_en.svg' | relative_url }}" alt="logo"
             class="logo">
+            {% endif %}
         </a>
       </div>
 
