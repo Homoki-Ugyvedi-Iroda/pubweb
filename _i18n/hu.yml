@@ -39,7 +39,8 @@ contact:
   send_a_message: Üzenetet küldök
 
 blog:
-  title: Nézelődjön a „digitális kertünkben”! Itt időről-időre közzétesszünk néhány, az irodai dolgozói által készített, az informatika és a jog területével kapcsolatos, eltérő mélységű gondolatokat, illetve a más weboldalokon közzétett ilyen publikációinkat, eseményeket.
+  title: Nézelődjön digitális kertünkben!
+  description: Itt időről-időre közzétesszünk néhány, az irodai dolgozói által készített, az informatika és a jog területével kapcsolatos, eltérő mélységű gondolatokat, illetve a más weboldalokon közzétett ilyen publikációinkat, eseményeket.
 
 back: Vissza
 
