@@ -1,8 +1,8 @@
 ---
 layout: default
 title: titles.colleagues
-permalink: /colleagues
-id: colleagues
+permalink: /colleagues_hu
+id: colleagues_hu
 ---
 ## Az ügyvédi iroda munkatársai
 
