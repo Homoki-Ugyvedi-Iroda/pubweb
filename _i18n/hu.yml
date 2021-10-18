@@ -29,7 +29,7 @@ office:
   short_description: A Homoki Ügyvédi Iroda kizárólag informatikai ügyekkel foglalkozó magyar ügyvédi iroda.
   description: >
     Széles körű és egyedülálló ügyvédi tapasztalattal rendelkezünk az informatikai iparág területén. Az e téren szerzett több mint húsz éves szakmai tapasztalatnak köszönhetően felismerjük az ügyfeleinket fenyegető lényeges jogi kockázatokat, legyen szó informatikai szolgáltatások megrendelőiről vagy szállítóiról. 
-    A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani. Az iroda <a href="/colleagues.html">munkatársairól</a> szóló oldalon tudhat meg többet.
+    A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani. Az iroda <a href="/colleagues_hu.html">munkatársairól</a> szóló oldalon tudhat meg többet.
 
 contact:
   title: Kapcsolat
@@ -46,6 +46,8 @@ back: Vissza
 related_articles: Kapcsolódó cikkek
 
 footer: >
-  <p>Személyi adatait nem kezeljük, cookie-t nem helyezünk el, ha ilyet talál, azt nem mi raktuk oda, hanem a böngészője. 
-  A digitális kert gondolatait és bármit, amit a weboldalon olvas, ne tekintse jogi szolgáltatásnak. Ilyet csak megbízási szerződés alapján nyújtunk, amit csak írásban kötünk. </p>
-  <p>Eltérő jelzés hiányában az esetlegesen egyéni-eredeti gondolatszövedékek a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> feltételek szerint használhatóak fel, a magyar bíróságok kizárólagos joghatóságának elfogadása esetén</p>
+  <p>Személyi adatait nem kezeljük, cookie-t nem helyezünk el, ha ilyet talál, azt nem mi raktuk oda, hanem a böngészője.</p>
+  <p>Bármit, amit a weboldalon olvas, ne tekintse jogi szolgáltatásnak. Ilyet csak megbízási szerződés alapján nyújtunk, amit csak írásban kötünk. </p>
+
+footer_posts:
+  Eltérő jelzés hiányában az esetlegesen egyéni-eredeti gondolatszövedékek a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> feltételek szerint használhatóak fel, a magyar bíróságok kizárólagos joghatóságának elfogadása esetén
