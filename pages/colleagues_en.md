@@ -1,7 +1,7 @@
 ---
 layout: default
 title: titles.colleagues
-permalink: /colleagues_en
+permalink: /colleagues_en.html
 id: colleagues_en
 ---
 ## Staff of the law firm
