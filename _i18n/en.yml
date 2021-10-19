@@ -27,7 +27,10 @@ recent_posts: Recent thoughts
 office:
   title: The office
   short_description: Homoki Law Office is a Hungarian law firm specialising exclusively in IT matters.
-  description: We have extensive and unique legal experience in the IT industry in Hungary. With more than 20 years of experience in this field, we are able to identify the material legal risks to our clients, whether they are customers or suppliers of IT services. Due to our practical expertise, we can provide our clients with timely, high-quality support in this area. You can find more detailed information about the staff on <a href="{% tl colleagues en %}">this page</a>.
+  description: >  
+    We have extensive and unique legal experience in the IT industry in Hungary. With more than 20 years of experience in this field, we are able to identify the material legal risks to our clients, whether they are customers or suppliers of IT services. 
+    Due to our practical expertise, we can provide our clients with timely, high-quality support in this area.
+    <p>You can find more detailed information about the staff on <a href="/en/colleagues/">this page</a></p>
 contact:
   title: Contact
   phone: Phone
