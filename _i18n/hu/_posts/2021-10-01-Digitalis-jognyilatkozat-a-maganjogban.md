@@ -10,6 +10,8 @@ tags:
   - jogösszehasonlítás
 ---
 
+Az előadás diája [itt](/assets/Digitális_nyilatkozatok_magánjogban_2.pdf) érhető el.
+
 # Bevezető
 
 Ez az összefoglaló a digitális jognyilatkozatokat vizsgálja. Miben mások ezek a jognyilatkozatok, miért kell ezekről külön beszélnünk? Az összes sajátosság, amivel az elmúlt húsz évben találkoztunk, mind ezekre a jellemzőkre vezethető vissza.
