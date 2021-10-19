@@ -25,6 +25,5 @@ A pl.: `_i18n/{{ nyelv }}/_posts/2021-10-12-hello-world.md`-ben található az `
 Lásd [itt](https://mademistakes.com/mastering-jekyll/how-to-link/)
 # többnyelvi változók behivatkozása
 1) definiáld a változót az en.yml és hu.yml-ben
-`{% t more_articles %}`
 ## csomagok
 lásd Gemfile & _config.yml: "jekyll-feed", "jekyll-multiple-languages-plugin", "jekyll-paginate-v2"
