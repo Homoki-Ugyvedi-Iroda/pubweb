@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Digitális jognyilatkozat a magánjogban - HU
+title:  Digitális jognyilatkozat a magánjogban
 date:   2021-10-01 9:30:00 +0200
 author: dr. Homoki Péter
 image: 
