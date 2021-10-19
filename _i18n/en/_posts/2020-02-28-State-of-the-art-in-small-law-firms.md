@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  State of the art in IT of small law firms in the EU (2020) - EN
+title:  State of the art in IT of small law firms in the EU (2020)
 date:   2021-06-25 9:30:00 +0200
 author: dr. Homoki Péter
 image: 
@@ -11,11 +11,6 @@ tags:
   - CCBE
 ---
 
-# What was the state of the art in the IT of small law firms in the EU (2020)
-
-***
-
-A [Jövő bírósága](https://ajovobirosaga.blog.hu/) blogon jelent meg két részletben 
 The Council of Bars and Law Societies of Europe [CCBE](https://www.ccbe.eu/)) and the [European Lawyers Foundation](https://elf-fae.eu/) published a [study](http://elf-fae.eu/wp-content/uploads/2021/03/Overview-of-the-average-state-of-the-art-IT-capabilities-in-the-EU.pdf) on the overview of the average state of the art of IT capabilities of small law firms in the EU.
 This study, written by Péter Homoki, provides a comparison within the EU and a gap analysis of these results with US, UK and Canada best practices.
 Based on a survey of 10 EU countries (including Hungary), the study attempts to provide a picture of the typical tasks performed by small law firms in each country and the IT support available for such activities, from practice management software to the use of various AI-enabled tools and cloud services.
