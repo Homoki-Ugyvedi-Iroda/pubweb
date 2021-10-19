@@ -16,7 +16,7 @@ titles:
   home: Home
   blog: Blog
   error: '404'
-  colleagues: 'The team'
+  colleagues: The team
 
 everyone_does_it_differently: A digital garden of thoughts in the law firm
 read_more: Read more
@@ -27,10 +27,9 @@ recent_posts: Recent thoughts
 office:
   title: The office
   short_description: Homoki Law Office is a Hungarian law firm specialising exclusively in IT matters.
-  description: >  
-    We have extensive and unique legal experience in the IT industry in Hungary. With more than 20 years of experience in this field, we are able to identify the material legal risks to our clients, whether they are customers or suppliers of IT services. 
-    Due to our practical expertise, we can provide our clients with timely, high-quality support in this area.
-    <p>You can find more detailed information about the staff on <a href="/en/colleagues/">this page</a></p>
+  description: We have extensive and unique legal experience in the IT industry in Hungary. With more than 20 years of experience in this field, we are able to identify the material legal risks to our clients, whether they are customers or suppliers of IT services. Due to our practical expertise, we can provide our clients with timely, high-quality support in this area.
+  about_our_colleagues: You can find more detailed information about the staff on <a href="/en/colleagues/">this page</a>.
+
 contact:
   title: Contact
   phone: Phone
@@ -40,16 +39,12 @@ contact:
 
 blog:
   title: Take a look around in our digital garden!
-  description:  From time to time, we publish here some of our thoughts on IT and law, some short, some longer, as well as links to our publications and events available on other websites.
-
+  description: From time to time, we publish here some of our thoughts on IT and law, some short, some longer, as well as links to our publications and events available on other websites.
 
 back: Back
 
 related_articles: Related articles
 
-footer: >
-  We do not process your personal data on this website, and we do not insert any cookies. Should you find one, that has probably not been placed by us, but by your browser. 
-  Do not treat anything you read on this website as a legal service or advice. We provide legal services to clients only after having a bilateral engagement agreement in place in writing (as understood under Hungarian law).
-
-footer_posts:
-  Unless otherwise indicated in a post, any copyrightable text we made may be used in accordance with <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> subject to the acceptance of the exclusive jurisdiction of the Hungarian courts.
+all_rights_reserved: All rights reserved
+copyright_notice: Unless otherwise indicated in a post, any copyrightable text we made may be used in accordance with <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> subject to the acceptance of the exclusive jurisdiction of the Hungarian courts.
+disclaimer: We do not process your personal data on this website, and we do not insert any cookies. Should you find one, that has probably not been placed by us, but by your browser. Do not treat anything you read on this website as a legal service or advice. We provide legal services to clients only after having a bilateral engagement agreement in place in writing (as understood under Hungarian law).

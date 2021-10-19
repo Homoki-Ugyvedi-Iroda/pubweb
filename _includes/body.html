@@ -1,7 +1,7 @@
 {% capture pageId %}{% if page.id %}page-{{ page.id }}{% endif %}{% endcapture %}
 <body id="top" class="{{ pageId }}">
-  {% include scripts.html %}
   {% include header.html %}
   {% include main.html %}
   {% include footer.html %}
+  {% include scripts.html %}
 </body>

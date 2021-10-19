@@ -1,6 +1,5 @@
 #tags {
   h3 {
-    margin-top: 20px;
     margin-bottom: 50px;
     font-family: var(--font-family-bold);
     text-transform: lowercase;
@@ -13,6 +12,22 @@
     padding: 0 6px;
     color: var(--color-heavy-metal);
     background-color: var(--color-silver);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #tags {
+    h3 {
+      margin-top: 100px;
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #tags {
+    h3 {
+      margin-top: 20px;
+    }
   }
 }
 

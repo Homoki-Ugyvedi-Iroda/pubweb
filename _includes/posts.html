@@ -3,7 +3,7 @@
 
     <div class="row">
 
-      <div class="col col-md-8">
+      <div class="col-md-8">
 
         {% for post in paginator.posts limit:1 %}
         <h2 class="post-title">
@@ -36,7 +36,7 @@
 
       </div>
 
-      <div class="col col-md-4">
+      <div class="col-md-4">
 
         {% include tags.html %}
 
@@ -51,7 +51,7 @@
     {% for post in paginator.posts offset:1 %}
     <div class="row border-top">
 
-      <div class="col col-md-8">
+      <div class="col-md-8">
 
         <h2 class="post-title">
           <a href="{{ post.url | prepend: site.baseurl }}">
@@ -102,6 +102,5 @@
       <div class="black-right-arrow"></div>
     </div>
     {% endif %}
-    <!--<div class="copyright">{% t footer_posts %}</div>-->
   </div>
 </section>

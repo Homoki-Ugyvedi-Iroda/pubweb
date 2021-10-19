@@ -121,9 +121,9 @@
     }
 
     .logo-box {
-      position: absolute;
-      top: 11px;
-      left: -45px;
+      position: relative;
+      top: 100px;
+      left: 100px;
     }
 
     .box {
@@ -141,6 +141,7 @@
 
     .logo-box {
       display: block;
+      margin-top: 100px;
       text-align: center;
     }
 
