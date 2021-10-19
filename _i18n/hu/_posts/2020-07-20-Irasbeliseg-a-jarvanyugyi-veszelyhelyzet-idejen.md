@@ -11,8 +11,4 @@ tags:
   - cégszerű aláírás
 ---
 
-# Írásbeliség a járványügyi veszélyhelyzet idején (ArsBoni)
-
-***
-
 Az [ArsBoni oldalán](https://arsboni.hu/irasbeliseg-a-jarvanyugyi-veszelyhelyzet-idejen/) jelent meg az a tanulmány, amely a digitális írásbeliséggel kapcsolatos, akkor időszerű kérdéseket igyekezett megválaszolni, mint amilyen a cégszerűség jelentése elektronikus aláírás esetén vagy az AVDH használatának kérdése.
