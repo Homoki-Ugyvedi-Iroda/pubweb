@@ -29,7 +29,8 @@ office:
   short_description: A Homoki Ügyvédi Iroda kizárólag informatikai ügyekkel foglalkozó magyar ügyvédi iroda.
   description: >
     Széles körű és egyedülálló ügyvédi tapasztalattal rendelkezünk az informatikai iparág területén. Az e téren szerzett több mint húsz éves szakmai tapasztalatnak köszönhetően felismerjük az ügyfeleinket fenyegető lényeges jogi kockázatokat, legyen szó informatikai szolgáltatások megrendelőiről vagy szállítóiról. 
-    A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani. Az iroda <a href="{% tl colleagues" %}>munkatársairól</a> szóló oldalon tudhat meg többet.
+    (x)A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani.
+    <p>Az iroda munkatársairól <a href="/colleagues/">itt</a>tudhat meg többet.</p>
 
 contact:
   title: Kapcsolat
