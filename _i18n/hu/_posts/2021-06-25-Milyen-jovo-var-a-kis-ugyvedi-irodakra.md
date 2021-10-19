@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Milyen jövő vár a kis ügyvédi irodákra? - HU
+title:  Milyen jövő vár a kis ügyvédi irodákra? (A jövő bírósága blog)
 date:   2021-06-25 9:30:00 +0200
 author: dr. Homoki Péter
 image: 
@@ -10,10 +10,6 @@ tags:
   - AI4Lawyers
   - CCBE
 ---
-
-# Milyen jövő vár a kis ügyvédi irodákra? (A jövő bírósága blog)
-
-***
 
 A [Jövő bírósága](https://ajovobirosaga.blog.hu/) blogon jelent meg két részletben egy rövid összefoglaló a 2020. februárjában befejezett, az Európai Ügyvédi Kamarák Tanácsa (Council of Bars and Law Societies of Europe, [CCBE](https://www.ccbe.eu/)) és a [European Lawyers Foundation](https://elf-fae.eu/) kiadásában megjelent [tanulmányról](http://elf-fae.eu/wp-content/uploads/2021/03/Overview-of-the-average-state-of-the-art-IT-capabilities-in-the-EU.pdf)
 A Homoki Péter által írt tanulmány címe: Overview on the "average state of the art" IT capabilities of law firms in the European Union and Gap Analysis Compared to US/UK/Canada best practices, tehát az uniós ügyvédi informatikai képességeket igyekezett összehasonlítani a brit és tengerentúli ügyvédi irodai képességekkel. A tanulmány egy 10 uniós országból (köztük Magyarország) részvételével készült felmérésre építve megpróbál képet adni arról, hogy melyik országban tipikusan milyen feladatokat látnak el a kis ügyvédi irodák, és milyen informatikai támogatottsággal rendelkeznek, a praxismenedzsment szoftverektől kezdve a különféle mesterséges intelligencia által támogatott eszközökés a felhőszolgáltatások használatáig.
