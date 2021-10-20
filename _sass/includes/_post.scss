@@ -20,6 +20,15 @@
     margin-top: 50px;
     font-size: 18px;
     line-height: 24px;
+
+    a {
+      display: inline-block;
+      color: var(--color-apricot);
+      font-family: var(--font-family-bold);
+      font-size: 20px;
+      line-height: 26px;
+      text-transform: uppercase;
+    }
   }
 
   .highlighted {

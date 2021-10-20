@@ -11,4 +11,4 @@ tags:
   - távoli szerződéskötés
 ---
 
-A DMS One iratkezelő termékeket forgalmazó, azonos nevű cég blogján megjelent egy interjú, amelyben néhány gyakorlati kérdést feszegetett Pusztai Balázs a blog szerzője. A hivatkozás itt érhető el: https://www.docuworld.hu/elektronikus-szerzodeskotes-interju
+A DMS One iratkezelő termékeket forgalmazó, azonos nevű cég blogján megjelent egy interjú, amelyben néhány gyakorlati kérdést feszegetett Pusztai Balázs a blog szerzője. A hivatkozás itt érhető el: [https://www.docuworld.hu/elektronikus-szerzodeskotes-interju](https://www.docuworld.hu/elektronikus-szerzodeskotes-interju){:target="_blank"}

@@ -1,9 +1,28 @@
 <div id="tags">
-  <h3>
-    <div class="underline"></div>{% t tags %}
-  </h3>
+  <div class="page-background">
+    <div class="container">
+      <div class="row">
 
-  {% for tag in site.tags %}
-  <span>{{ tag | first }}</span>
-  {% endfor %}
+        <div class="col-md-8">
+
+          {% include tag.html %}
+
+        </div>
+
+        <div class="col-md-4">
+
+          {% include collect-tags.html %}
+
+          <hr class="my-50">
+
+          {% include recent-posts.html %}
+
+        </div>
+
+      </div>
+    </div>
+
+    {% include scroll-to-top.html %}
+
+  </div>
 </div>

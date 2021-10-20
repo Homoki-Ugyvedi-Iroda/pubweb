@@ -10,12 +10,20 @@
             {{ post.title }}
           </a>
         </h2>
+
         <hr class="mt-10 line-w-large">
+
         <small class="post-details">
           { {{ post.author }} / {{ post.date | date: "%y.%m.%d" }} }
         </small>
+
         <div class="post-content">
+
+          {% assign image = post.image | strip_newlines %}
+          {% if image != "" %}
           <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
+          {% endif %}
+
           <div class="post-data">
             <div class="relative">
               <div class="white-right-arrow"></div>
@@ -37,7 +45,7 @@
 
       <div class="col-md-4">
 
-        {% include tags.html %}
+        {% include collect-tags.html %}
 
         <hr class="my-50">
 

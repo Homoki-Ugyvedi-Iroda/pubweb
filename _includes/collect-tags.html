@@ -1,0 +1,10 @@
+<div id="collect-tags">
+  <h3>
+    <div class="underline"></div>{% t titles.tags %}
+  </h3>
+
+  {% for tag in site.tags %}
+  <a href="/tags/#{{ tag | first | slugify }}">{{ tag | first }}</a>
+  {% endfor %}
+
+</div>

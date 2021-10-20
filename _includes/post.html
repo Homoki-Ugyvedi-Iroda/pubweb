@@ -7,10 +7,13 @@
       <div class="col-md-8">
 
         <h1>{{ page.title }}</h1>
+
         <hr class="mt-10 line-w-large">
+
         <small class="post-details">
           { {{ page.author }} / {{ page.date | date: "%Y.%m.%d" }} }
         </small>
+        
         <div class="post-content">
           {{ content }}
         </div>
@@ -21,7 +24,7 @@
 
       <div class="col-md-4">
 
-        {% include tags.html %}
+        {% include collect-tags.html %}
 
         <hr class="my-50">
 

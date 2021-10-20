@@ -11,4 +11,4 @@ tags:
   - cégszerű aláírás
 ---
 
-Az [ArsBoni oldalán](https://arsboni.hu/irasbeliseg-a-jarvanyugyi-veszelyhelyzet-idejen/) jelent meg az a tanulmány, amely a digitális írásbeliséggel kapcsolatos, akkor időszerű kérdéseket igyekezett megválaszolni, mint amilyen a cégszerűség jelentése elektronikus aláírás esetén vagy az AVDH használatának kérdése.
+Az [ArsBoni oldalán](https://arsboni.hu/irasbeliseg-a-jarvanyugyi-veszelyhelyzet-idejen/){:target="_blank"} jelent meg az a tanulmány, amely a digitális írásbeliséggel kapcsolatos, akkor időszerű kérdéseket igyekezett megválaszolni, mint amilyen a cégszerűség jelentése elektronikus aláírás esetén vagy az AVDH használatának kérdése.
