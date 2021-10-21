@@ -1,9 +1,4 @@
----
-layout: default
-title:  Az ügyvédi iroda munkatársai
-date:   2021-10-20 9:30:00 +0200
-author: dr. Homoki Péter
-image: 
+##  Az ügyvédi iroda munkatársai
 
 ---
 
