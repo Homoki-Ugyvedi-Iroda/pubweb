@@ -1,4 +1,11 @@
-## Staff of the law firm
+---
+layout: default
+title:  Staff of the law firm
+date:   2021-10-20 9:30:00 +0200
+author: dr. Homoki Péter
+image: 
+
+---
 
 dr. Péter *Homoki* is the founder of the firm, his CV is available at <a href="https://www.linkedin.com/in/homoki" target="_blank">LinkedIn</a>. He is a lawyer entitled to practice in Hungary (ügyvéd) and has a specialisation in regulatory matters (an LLM equivalent).
 
