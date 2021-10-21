@@ -3,7 +3,7 @@ layout: post
 title:  State of the art in IT of small law firms in the EU (2020)
 date:   2021-06-25 9:30:00 +0200
 author: dr. Homoki Péter
-image: 
+image: /assets/images/iStock-1257015978_1920.jpg
 tags:
   - law firm information technology
   - international comparison
