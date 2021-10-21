@@ -4,7 +4,7 @@
 
       <div class="col-md-8 relative">
 
-        {% for post in site.posts offset:1 limit:1 %}
+        {% for post in site.posts limit:1 %}
         <h2 class="post-title">
           <a href="{{ post.url | prepend: site.baseurl }}">
             {{ post.title }}

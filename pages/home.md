@@ -1,7 +1,7 @@
 ---
 layout: default
 title: titles.home
-permalink: /home/
+permalink: /
 id: home
 ---
 

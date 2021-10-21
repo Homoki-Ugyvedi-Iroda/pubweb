@@ -4,9 +4,9 @@ const scrollToTop = () =>
 const scrollToSection = (itemId) => {
   const element = document.getElementById(itemId);
   window.scrollTo({
-    behavior: 'smooth',
-    left: element.offsetLeft,
     top: element.offsetTop - 80,
+    left: element.offsetLeft,
+    behavior: 'smooth',
   });
 };
 
@@ -17,6 +17,8 @@ const displayLogoPictogramOnHomepage = () => {
   }
 };
 
-window.onscroll = function () {
+window.onscroll = () => {
   displayLogoPictogramOnHomepage();
 };
+
+window.location.hash && scrollToSection(window.location.hash.replace('#', ''));

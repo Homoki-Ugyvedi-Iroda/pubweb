@@ -31,7 +31,6 @@
     position: relative;
     margin-top: 100px;
     max-width: 100%;
-    min-height: 600px;
 
     img {
       position: absolute;
@@ -42,10 +41,6 @@
   }
 
   .post-data {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
     background-color: rgba(29, 29, 27, 0.8);
     border-top-right-radius: 150px 150px;
   }

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.under_construction
-permalink: /
+# permalink: /
 id: under-construction
 ---
 

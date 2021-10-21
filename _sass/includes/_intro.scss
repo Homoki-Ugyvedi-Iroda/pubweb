@@ -1,6 +1,6 @@
 #intro {
   position: relative;
-  min-height: 100vh;
+  min-height: 50vh;
 
   .overlay {
     position: absolute;
@@ -34,59 +34,6 @@
     width: 236px;
     height: 236px;
   }
-
-  .caption {
-    color: var(--color-jordy-blue);
-    font-size: 22px;
-    line-height: 28px;
-    text-transform: lowercase;
-  }
-
-  .post-title {
-    margin: 0;
-    max-width: 520px;
-    color: var(--color-white);
-    font-family: var(--font-family-bold);
-    font-size: 37px;
-    line-height: 48px;
-    text-transform: uppercase;
-  }
-
-  .post-details {
-    color: var(--color-apricot);
-    font-size: 12px;
-    line-height: 16px;
-  }
-
-  .post-data {
-    position: relative;
-    margin-top: 75px;
-    max-width: 560px;
-  }
-
-  .post-excerpt {
-    display: -webkit-box;
-    color: var(--color-white);
-    font-size: 18px;
-    line-height: 24px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -webkit-line-clamp: 5;
-    -webkit-box-orient: vertical;
-
-    > p {
-      margin-top: 0;
-    }
-
-    a {
-      display: inline-block;
-      color: var(--color-apricot);
-      font-family: var(--font-family-bold);
-      font-size: 20px;
-      line-height: 26px;
-      text-transform: uppercase;
-    }
-  }
 }
 
 @media screen and (max-width: 991px) {
@@ -113,14 +60,6 @@
       > div {
         padding: 20px;
       }
-    }
-  }
-}
-
-@media screen and (min-width: 1200px) {
-  #intro {
-    .post-data {
-      margin-left: 520px;
     }
   }
 }

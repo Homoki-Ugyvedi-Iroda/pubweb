@@ -27,7 +27,7 @@
 
   <div class="tags">
     {% for tag in tags %}
-    <a onclick="scrollToSection(`{{ tag | slugify }}`); return false;"
+    <a onclick="scrollToSection(`{{ tag | slugify: 'latin' }}`); return false;"
       class="tag">
       {{ tag }}
     </a>
@@ -36,13 +36,13 @@
 
   <div class="posts">
     {% for tag in tags %}
-    <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+    <h2 id="{{ tag | slugify: 'latin' }}">{{ tag }}</h2>
     <ul>
       {% for post in site.posts %}
       {% if post.tags contains tag %}
       <li>
         <h3>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h3>
       </li>
       {% endif %}

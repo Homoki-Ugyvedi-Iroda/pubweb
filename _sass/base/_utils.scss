@@ -86,10 +86,6 @@
   height: 100%;
 }
 
-.h-min-100vh {
-  min-height: 100vh;
-}
-
 @each $size in 10, 35, 50, 80 {
   .mt-#{$size} {
     margin-top: #{$size}px;
