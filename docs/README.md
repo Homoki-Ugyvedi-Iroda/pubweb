@@ -1,7 +1,7 @@
 # Homoki Ügyvédi Iroda
 
-## Documentation
+## Dokumentáció
 
-For more information, see:
+További információkat lásd:
 
-- [Használati útmutató](users-guide.md) (Hungarian)
+- [Használati útmutató](users-guide.md)

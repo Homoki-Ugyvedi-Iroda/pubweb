@@ -3,8 +3,7 @@ layout: default
 ---
 
 <article>
-
-  {% assign image = post.image | strip_newlines %}
+  {% assign image = page.image | strip_newlines %}
   {% if image != "" %}
   <div class="intro">
     <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt=""

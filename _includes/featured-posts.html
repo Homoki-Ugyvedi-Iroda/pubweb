@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-md-8 relative">
+      <div class="col-md-8">
 
         {% for post in site.posts limit:1 %}
         <h2 class="post-title">
@@ -17,26 +17,23 @@
           { {{ post.author }} / {{ post.date | date: "%y.%m.%d" }} }
         </small>
 
-        <div class="post-content">
-
-          {% assign image = post.image | strip_newlines %}
+        {% assign image = post.image | strip_newlines %}
+        <div class="post-content {% if image != '' %}h-min-600{% endif %}">
           {% if image != "" %}
           <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
           {% endif %}
 
           <div class="post-data">
-            <div class="relative">
-              <div class="white-right-arrow"></div>
+            <div class="white-right-arrow"></div>
 
-              <div class="post-excerpt">
-                {{ post.excerpt }}
-              </div>
-
-              <a href="{{ post.url | prepend: site.baseurl }}"
-                class="read-more-button">
-                /{% t read_more %}/
-              </a>
+            <div class="post-excerpt">
+              {{ post.excerpt }}
             </div>
+
+            <a href="{{ post.url | prepend: site.baseurl }}"
+              class="read-more-button">
+              /{% t read_more %}/
+            </a>
           </div>
         </div>
         {% endfor %}

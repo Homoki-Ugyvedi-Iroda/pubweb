@@ -86,6 +86,10 @@
   height: 100%;
 }
 
+.h-min-600 {
+  min-height: 600px;
+}
+
 @each $size in 10, 35, 50, 80 {
   .mt-#{$size} {
     margin-top: #{$size}px;

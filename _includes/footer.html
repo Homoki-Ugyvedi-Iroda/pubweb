@@ -1,7 +1,9 @@
 <footer class="footer">
   <div class="container h-100">
     <div class="copyright">
-      » {% t all_rights_reserved %}
+      {% if site.translations[site.lang].footer %}
+      » {% t footer %}
+      {% endif %}
     </div>
   </div>
 </footer>

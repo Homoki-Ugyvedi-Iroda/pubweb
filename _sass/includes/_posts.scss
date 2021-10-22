@@ -29,8 +29,11 @@
 
   .post-content {
     position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
     margin-top: 100px;
-    max-width: 100%;
+    overflow: hidden;
 
     img {
       position: absolute;
@@ -41,6 +44,8 @@
   }
 
   .post-data {
+    position: relative;
+    width: 100%;
     background-color: rgba(29, 29, 27, 0.8);
     border-top-right-radius: 150px 150px;
   }
@@ -80,6 +85,10 @@
 
 @media screen and (min-width: 992px) {
   #posts {
+    .post-content {
+      margin-right: 20px;
+    }
+
     .post-data {
       padding: 90px 110px;
     }
