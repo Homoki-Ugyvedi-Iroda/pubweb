@@ -8,8 +8,7 @@ const cssnano = require('cssnano');
 const concat = require('gulp-concat');
 const terser = require('gulp-terser');
 const imagemin = require('gulp-imagemin');
-const jpegtran = require('imagemin-jpegtran');
-const optipng = require('imagemin-optipng');
+const webp = require('imagemin-webp');
 const browserSync = require('browser-sync').create();
 
 function doSpawn(argument, cb) {
@@ -52,22 +51,9 @@ gulp.task('imagemin', function () {
   return gulp
     .src('assets/images/original/**/*')
     .pipe(
-      imagemin(
-        [
-          jpegtran({ progressive: true }),
-          optipng({ optimizationLevel: 5 }),
-          imagemin.svgo({
-            plugins: [
-              {
-                removeViewBox: true,
-              },
-            ],
-          }),
-        ],
-        {
-          verbose: true,
-        }
-      )
+      imagemin([webp({ quality: 50 })], {
+        verbose: true,
+      })
     )
     .pipe(gulp.dest('assets/images/minified'));
 });
