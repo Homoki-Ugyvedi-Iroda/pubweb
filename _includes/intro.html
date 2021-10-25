@@ -1,7 +1,7 @@
 <section id="intro">
   <div class="overlay"></div>
 
-  <img src="{{ '/assets/images/blog-intro.jpg' | relative_url }}" alt=""
+  <img src="{{ '/assets/images/minified/intro.jpg' | relative_url }}" alt=""
     class="intro-background">
 
   <div class="container">
@@ -9,10 +9,10 @@
       <div class="mt-50">
         <a href="{{ '/' | prepend: site.baseurl }}" class="logo-box">
           {% if site.lang == "hu" %}
-          <img src="{{ '/assets/images/logo_hu.svg' | relative_url }}"
+          <img src="{{ '/assets/images/logos/logo_hu.svg' | relative_url }}"
             alt="logo" class="logo">
           {% elsif site.lang == "en" %}
-          <img src="{{ '/assets/images/logo_en.svg' | relative_url }}"
+          <img src="{{ '/assets/images/logos/logo_en.svg' | relative_url }}"
             alt="logo" class="logo">
           {% endif %}
         </a>

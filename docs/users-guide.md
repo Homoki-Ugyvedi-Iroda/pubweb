@@ -26,7 +26,7 @@ Az `_i18n/{{ nyelv }}/_posts` mappában létrehozzuk a fájlokat `dátum-cikk-ne
 
 ## Képek feltöltése
 
-A pl.: `_i18n/{{ nyelv }}/_posts/2021-10-12-hello-world.md`-ben található az `image` értéke (pl.: `earth.jpg`), ami kapcsolódik az `assets/images/` könyvtárban lévő fájlhoz, ahova feltölthetjük a képeket vagy módosíthatjuk.
+A pl.: `_i18n/{{ nyelv }}/_posts/2021-10-12-hello-world.md`-ben található az `image` értéke (pl.: `earth.jpg`), ami kapcsolódik az `assets/images/original` könyvtárban lévő fájlhoz, ahova feltölthetjük a képeket vagy módosíthatjuk.
 
 ## Hivatkozások yml-ben:
 

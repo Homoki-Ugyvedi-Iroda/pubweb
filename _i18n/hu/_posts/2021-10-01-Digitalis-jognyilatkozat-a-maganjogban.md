@@ -10,7 +10,7 @@ tags:
   - jogösszehasonlítás
 ---
 
-Az előadás diája [itt](/assets/images/Digitális_nyilatkozatok_magánjogban_2.pdf){:target="_blank"} érhető el.
+Az előadás diája [itt](/assets/files/Digitális_nyilatkozatok_magánjogban_2.pdf){:target="_blank"} érhető el.
 
 # Bevezető
 

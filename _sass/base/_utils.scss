@@ -130,7 +130,7 @@
 .page-background {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: url(./../../assets/images/background.png) no-repeat 100%;
+  background: url(./../../assets/images/minified/background.png) no-repeat 100%;
 }
 
 .read-more-button {
@@ -200,21 +200,21 @@
   left: -20px;
   width: 20px;
   height: 20px;
-  background: url(./../../assets/images/white-right-arrow.svg);
+  background: url(./../../assets/images/icons/white-right-arrow.svg);
 }
 
 .black-left-arrow {
   margin-right: 30px;
   width: 30px;
   height: 30px;
-  background: url(./../../assets/images/black-left-arrow.svg);
+  background: url(./../../assets/images/icons/black-left-arrow.svg);
 }
 
 .black-right-arrow {
   margin-left: 30px;
   width: 30px;
   height: 30px;
-  background: url(./../../assets/images/black-right-arrow.svg);
+  background: url(./../../assets/images/icons/black-right-arrow.svg);
 }
 
 @media screen and (min-width: 768px) {

@@ -53,6 +53,10 @@ jobs:
         run: |
           npm ci
 
+      - name: Optimize images
+        run: |
+          gulp imagemin
+
       - name: Build Jekyll site
         run: |
           npm run build

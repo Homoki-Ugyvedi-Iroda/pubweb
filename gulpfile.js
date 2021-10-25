@@ -7,6 +7,9 @@ const autoprefixer = require('autoprefixer');
 const cssnano = require('cssnano');
 const concat = require('gulp-concat');
 const terser = require('gulp-terser');
+const imagemin = require('gulp-imagemin');
+const jpegtran = require('imagemin-jpegtran');
+const optipng = require('imagemin-optipng');
 const browserSync = require('browser-sync').create();
 
 function doSpawn(argument, cb) {
@@ -43,6 +46,30 @@ gulp.task('js', function () {
     .pipe(terser())
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest('assets/js'));
+});
+
+gulp.task('imagemin', function () {
+  return gulp
+    .src('assets/images/original/**/*')
+    .pipe(
+      imagemin(
+        [
+          jpegtran({ progressive: true }),
+          optipng({ optimizationLevel: 5 }),
+          imagemin.svgo({
+            plugins: [
+              {
+                removeViewBox: true,
+              },
+            ],
+          }),
+        ],
+        {
+          verbose: true,
+        }
+      )
+    )
+    .pipe(gulp.dest('assets/images/minified'));
 });
 
 gulp.task('jekyll-serve', function (done) {

@@ -1,17 +1,18 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="author" content="">
   <title>
     {% if page.layout == 'default' %}{% t page.title %} |{% endif %}
     {% if page.layout == 'post' %}{{ page.title }} |{% endif %}
     {{ site.title }}
   </title>
+  <link rel="shortcut icon" type="image/x-icon"
+    href="{{ '/assets/images/favicon/favicon.ico' | relative_url }}">
+  <link rel="preconnect" href="https://maps.googleapis.com" crossorigin>
   <link rel="stylesheet preload" as="style"
     href="{{ '/assets/css/main.min.css' | relative_url }}">
-  <link
-    rel="shortcut icon"
-    href="{{ '/assets/images/favicon.ico' | relative_url }}"
-    type="image/x-icon" />
 </head>

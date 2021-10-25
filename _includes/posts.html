@@ -21,7 +21,8 @@
         {% assign image = post.image | strip_newlines %}
         <div class="post-content {% if image != '' %}h-min-600{% endif %}">
           {% if image != "" %}
-          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
+          <img src="{{ site.baseurl }}/assets/images/minified/{{ post.image }}"
+            alt="">
           {% endif %}
 
           <div class="post-data">
@@ -75,7 +76,8 @@
         {% assign image = post.image | strip_newlines %}
         <div class="post-content {% if image != '' %}h-min-600{% endif %}">
           {% if image != "" %}
-          <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="">
+          <img src="{{ site.baseurl }}/assets/images/minified/{{ post.image }}"
+            alt="">
           {% endif %}
 
           <div class="post-data">
