@@ -3,7 +3,7 @@ layout: post
 title:  Milyen jövő vár a kis ügyvédi irodákra?
 date:   2021-06-25 9:30:00 +0200
 author: dr. Homoki Péter
-image:
+image: iStock-1257015978_4k.jpg
 tags:
   - ügyvédi irodai informatika
   - nemzetközi összehasonlítás
