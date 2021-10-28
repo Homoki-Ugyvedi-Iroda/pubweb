@@ -3,7 +3,7 @@ layout: post
 title:  Ügyvédi informatika a járványügyi veszélyhelyzet idején - HU
 date:   2020-12-01 9:30:00 +0200
 author: dr. Homoki Péter
-image: 
+image: iStock-974079490_4k.jpg
 tags:
   - veszélyhelyzet
   - járványügyi korlátozások
