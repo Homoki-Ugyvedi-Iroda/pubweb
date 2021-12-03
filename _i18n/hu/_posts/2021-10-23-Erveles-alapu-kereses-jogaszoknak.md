@@ -14,4 +14,4 @@ tags:
   
 ---
 
-Az ArsBoni szervezésében november 9-én 14:00 és 15:00 óra között (elnézést, korábban elírtam a dátumot!) a LegalFest 21-en lesz egy Zoomon tartott előadás. Az előadás témájának apropóját az AI4Lawyers projekt 3. fázisa során végzett "kutatások" (olvasások és megértési próbálkozások) adják. Az előadás után várhatóan majd a saját oldalon is elrejtek egy átiratot vagy vázlatot. A részleteket [ITT](https://karrier.arsboni.hu/legal-fest-2021-osz/programok/erveles-alapu-kereses-jogaszoknak/) lehet olvasni.
+Az ArsBoni szervezésében november 9-én, a LegalFest 21-en volt egy Zoomon tartott előadás, amely [ITT](https://www.youtube.com/watch?v=Yhm-ZDQ_Qgk&t=60s) érhető el. Hamarosan egy átiratot is feltöltök.
