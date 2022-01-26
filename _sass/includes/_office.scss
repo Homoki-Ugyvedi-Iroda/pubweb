@@ -16,7 +16,7 @@
   }
 
   .office-content {
-    border-bottom-right-radius: 250px 250px;
+    border-bottom-right-radius: 240px 240px;
     overflow: hidden;
 
     img {
@@ -47,6 +47,16 @@
   }
 }
 
+@media screen and (max-width: 1199px) {
+  #office {
+    .office-content {
+      .office-description {
+        padding: 50px 50px 80px 50px;
+      }
+    }
+  }
+}
+
 @media screen and (min-width: 1200px) {
   #office {
     .office-content {
@@ -66,16 +76,6 @@
         align-items: center;
         padding: 80px;
         min-height: 650px;
-      }
-    }
-  }
-}
-
-@media screen and (max-width: 1199px) {
-  #office {
-    .office-content {
-      .office-description {
-        padding: 50px;
       }
     }
   }
