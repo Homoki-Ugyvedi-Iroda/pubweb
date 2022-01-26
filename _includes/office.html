@@ -1,21 +1,21 @@
 <section id="office">
   <div class="container">
     <h2>
-      <div class="underline"></div>{% t office.title %}
+      <div class="underline"></div>
+      {% t office.title %}
     </h2>
 
     <div class="office-content">
-      <img src="{{ '/assets/images/minified/office.jpg' | relative_url }}"
-        alt="">
-
       <div class="row">
+        <div class="col-xl-6">
+          <img
+            src="{{ '/assets/images/minified/office.jpg' | relative_url }}"
+            alt=""
+          />
+        </div>
 
-        <div class="col-lg-6"></div>
-
-        <div class="col-lg-6">
+        <div class="col-xl-6">
           <div class="office-description">
-            <h3>{% t office.short_description %}</h3>
-
             <div class="relative">
               <div class="white-right-arrow"></div>
 
@@ -25,7 +25,6 @@
             </div>
           </div>
         </div>
-
       </div>
     </div>
   </div>

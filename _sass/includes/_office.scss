@@ -11,35 +11,23 @@
     font-family: var(--font-family-bold);
     font-size: 20px;
     line-height: 26px;
+    letter-spacing: 0.3em;
     text-transform: lowercase;
   }
 
   .office-content {
-    position: relative;
     border-bottom-right-radius: 250px 250px;
     overflow: hidden;
 
     img {
-      position: absolute;
       width: 100%;
       height: 100%;
-      z-index: 0;
       object-fit: cover;
     }
 
     .office-description {
-      position: relative;
-      background-color: rgba(29, 29, 27, 0.8);
-      z-index: 1;
-    }
-
-    h3 {
-      margin-top: 0;
-      margin-bottom: 100px;
-      color: var(--color-apricot);
-      font-family: var(--font-family-bold);
-      font-size: 30px;
-      line-height: 39px;
+      background-color: var(--color-black);
+      letter-spacing: 0em;
     }
 
     a {
@@ -54,26 +42,40 @@
     p {
       color: var(--color-white);
       font-size: 18px;
-      line-height: 24px;
+      line-height: 28px;
     }
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (min-width: 1200px) {
   #office {
     .office-content {
+      .col-xl-6 {
+        &:first-child {
+          padding-right: 0;
+        }
+
+        &:last-child {
+          padding-left: 0;
+        }
+      }
+
       .office-description {
-        padding: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 80px;
+        min-height: 650px;
       }
     }
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 1199px) {
   #office {
     .office-content {
       .office-description {
-        padding: 80px;
+        padding: 50px;
       }
     }
   }

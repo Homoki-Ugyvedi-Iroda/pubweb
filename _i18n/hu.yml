@@ -24,9 +24,10 @@ more_articles: További gondolatok
 tags: Címkék
 recent_posts: Legutóbbi gondolatok
 
+intro: A Homoki Ügyvédi Iroda kizárólag informatikai és távközlési ügyfelekre szakosodott magyar ügyvédi iroda.
+
 office:
   title: Az iroda
-  short_description: A Homoki Ügyvédi Iroda kizárólag informatikai ügyekkel foglalkozó magyar ügyvédi iroda.
   description: Széles körű és egyedülálló ügyvédi tapasztalattal rendelkezünk az informatikai iparág területén. Az e téren szerzett több mint húsz éves szakmai tapasztalatnak köszönhetően felismerjük az ügyfeleinket fenyegető lényeges jogi kockázatokat, legyen szó informatikai szolgáltatások megrendelőiről vagy szállítóiról. A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani.
   about_our_colleagues: Az iroda munkatársairól <a href="/colleagues/">itt</a> tudhat meg többet.
 

@@ -1,17 +1,16 @@
 #intro {
   position: relative;
-  min-height: 50vh;
 
   .overlay {
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba(29, 29, 27, 0.5);
+    background-color: rgba(29, 29, 27, 0.56);
     border-bottom-right-radius: 250px 250px;
     z-index: 1;
   }
 
-  .intro-background {
+  .intro-background-image {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -27,39 +26,76 @@
 
   .logo-box {
     display: inline-block;
+    margin-left: -80px;
   }
 
   .logo {
-    margin-left: -56px;
     width: 236px;
     height: 236px;
   }
+
+  .intro-description {
+    max-width: 693px;
+    color: var(--color-apricot);
+    font-family: var(--font-family-bold);
+    letter-spacing: 0.01em;
+  }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 767px) {
   #intro {
-    .overlay,
-    .intro-background {
-      left: 0;
+    .intro-description {
+      font-size: 16px;
+      line-height: 20px;
     }
   }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px) and (max-width: 1199px) {
   #intro {
-    .overlay,
-    .intro-background {
-      right: 140px;
+    .intro-description {
+      font-size: 20px;
+      line-height: 28px;
     }
   }
 }
 
 @media screen and (max-width: 1199px) {
   #intro {
-    .container {
-      > div {
-        padding: 20px;
-      }
+    min-height: 50vh;
+
+    .container > div {
+      padding: 20px;
+      min-height: 50vh;
+    }
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #intro {
+    min-height: 100vh;
+
+    .intro-background {
+      position: absolute;
+      left: 0;
+      right: 140px;
+      top: 0;
+      bottom: 0;
+    }
+
+    .container > div {
+      min-height: 100vh;
+    }
+
+    .logo-box {
+      position: absolute;
+      top: 50px;
+    }
+
+    .intro-description {
+      margin-left: 10%;
+      font-size: 30px;
+      line-height: 43px;
     }
   }
 }
