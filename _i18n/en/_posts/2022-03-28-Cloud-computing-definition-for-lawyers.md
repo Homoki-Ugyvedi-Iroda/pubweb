@@ -7,8 +7,7 @@ image: "iStock-670229682_web.jpg"
 tags:
   - cloud computing
   - lawyers
-  - CCBE
----
+  ---
 
 # Any regulatory definition of cloud computing?
 
