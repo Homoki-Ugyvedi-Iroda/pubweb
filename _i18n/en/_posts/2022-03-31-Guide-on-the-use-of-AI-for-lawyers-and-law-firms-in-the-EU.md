@@ -19,4 +19,4 @@ What's more, I have had the privilege of presenting this guide at a conference i
 My next task is to translate this 56-page document into Hungarian, and I hope many other translations will follow suit. No matter how hard we've tried to draft a guide that stands the test of time, this is a fast-changing environment, so to remain relevant, we have to act fast.
 The problem is that relevant legaltech markets are very much fragmented at the level of the EU for small law practices. We hope that this guide will help to focus and standardise some of the needs of smaller law practices, overcoming certain obstacles of these fragmented markets.
 I recommend every small practices to read the guide available at the newly announced [AI4Lawyers](https://ai4lawyers.eu/) website, together with all the other reports and materials created during this AI4Lawyers project.
-Please find the presentation [here](/assets/files/Digit%C3%A1lis_nyilatkozatok_mag%C3%A1njogban_2.pdf)
+Please find the presentation [here](/assets/files/220331_CCBE_presentation_AI4Lawyers_Guide_on_the_use_of_AI_for_lawyers_and_law_firms.pdf)
