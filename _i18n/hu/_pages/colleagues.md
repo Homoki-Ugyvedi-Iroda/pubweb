@@ -1,6 +1,6 @@
 ##  Az ügyvédi iroda munkatársai
 
-dr. *Homoki* Péter, az iroda alapítója, ügyvéd és szabályozási szakjogász (LLM). <a href="https://www.linkedin.com/in/homoki" target="_blank">LinkedIn profilja</a>.
+dr. *Homoki* Péter, az iroda alapítója, ügyvéd és szabályozási szakjogász (LLM), <a href="https://iapp.org/certify/cippe/">CIPP/E</a>. <a href="https://www.linkedin.com/in/homoki" target="_blank">LinkedIn profilja</a>.
 
 dr. *Oroszvári* Dániel, az iroda tagja, ügyvéd, felsőfokú iparjogvédelmi képesítéssel. <a href="https://www.linkedin.com/in/daniel-oroszvari-609b64116/" target="_blank">LinkedIn profilja</a>.
 
