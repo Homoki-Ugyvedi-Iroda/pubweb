@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Omne trium perfectum - Executive Order 14086 and the Data Privacy Framework in the light of the two Schrems cases
+title:  Omne trium perfectum - EO 14086 in the light of the two Schrems cases
 date:   2022-10-25 14:09:00 +0200
 author: dr. Homoki Péter
 image: "iStock-974079490.jpg"
@@ -9,7 +9,7 @@ tags:
   - EO 14086
   - data transfer 
 ---
-# Hungary, 31st March 2022
+# Hungary, 15th October 2022
 
 **1. Introduction**
 
