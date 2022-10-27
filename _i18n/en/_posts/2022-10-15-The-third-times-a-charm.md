@@ -29,6 +29,8 @@ Having a new adequacy decision will remove all this uncertainty, because data pr
 
 Below, we would like to first recall the reasons why the EU Court of Justice found the Privacy Shield adequacy decision invalid in Schrems II, then provide a summary of why this Privacy Framework is (hopefully) different.
 
+![Submarine near underwater cable](/assets/images/DALL·E submarine swimming sea cable.jpg){:class="img-responsive"}
+
 **2. Schrems I on Safe Harbour and Schrems II on Privacy Shield**
 
 Following the revelations of Snowden, the adequacy decision of USA data transfers under the safe harbour principle ([2000/520/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02000D0520-20000825)) had been questioned even by the Commission itself. However, the Commission opted for trying to strengthen the principles rather than revoke it ([COM/2013/846](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2013%3A0846%3AFIN)), but these strengthening measures remained mostly recommendations in nature (e.g. aiming for new umbrella agreements for law enforcement purposes, expecting better supervision by US authorities of the self-certified companies, limiting the national security exceptions to what is proportionate, extending safeguards of US residents to all EU citizens etc., see also [COM/2013/847](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2013%3A0847%3AFIN)).
