@@ -29,7 +29,7 @@ Having a new adequacy decision will remove all this uncertainty, because data pr
 
 Below, we would like to first recall the reasons why the EU Court of Justice found the Privacy Shield adequacy decision invalid in Schrems II, then provide a summary of why this Privacy Framework is (hopefully) different.
 
-![Submarine near underwater cable](/assets/images/originals/DALL·E submarine swimming sea cable.jpg){:class="img-responsive"}
+![Submarine near underwater cable](/assets/images/originals/DALLE_submarine.jpg){:class="img-responsive"}
 
 **2. Schrems I on Safe Harbour and Schrems II on Privacy Shield**
 
