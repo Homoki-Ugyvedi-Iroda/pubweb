@@ -14,4 +14,4 @@ tags:
   
 ---
 
-Az ArsBoni szervezésében november 9-én, a LegalFest 21-en volt egy Zoomon tartott előadás, amely [ITT](https://www.youtube.com/watch?v=Yhm-ZDQ_Qgk&t=60s) érhető el. Hamarosan egy átiratot is feltöltök. (Fénykép: DALL-E)
+Az ArsBoni szervezésében november 9-én, a LegalFest 21-en volt egy Zoomon tartott előadás, amely [ITT](https://www.youtube.com/watch?v=Yhm-ZDQ_Qgk&t=60s) érhető el. Az átirat [itt](https://homoki.net/2022/11/03/Erveles-alapu-kereses.html) érhető el. (Fénykép: DALL-E)
