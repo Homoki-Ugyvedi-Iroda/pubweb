@@ -5,9 +5,10 @@ date:   2021-10-23 5:50:00 +0200
 author: dr. Homoki Péter
 image: "DALL·E 2022-11-03 08.33.24 - realistic photograph of a two ferns embracing each other in a misty jungle.jpg"
 tags:
-  - érvelés-alapú keresés
+  - érvelés alapú keresés
   - jogi kutatás
-  - AI
+  - artificial intelligence
+  - mesterséges intelligencia
   - ArsBoni
   - beharangozó
   - AI4Lawyers
