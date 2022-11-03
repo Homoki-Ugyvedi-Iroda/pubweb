@@ -10,6 +10,8 @@ tags:
   - mesterséges intelligencia
   - jogászi hivatás
   - ügyvédség
+  - jogi kutatás
+  - ArsBoni
 ---
 
 
