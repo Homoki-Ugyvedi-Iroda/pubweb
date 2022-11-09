@@ -58,6 +58,10 @@ gulp.task('imagemin', function () {
     .pipe(gulp.dest('assets/images/minified'));
 });
 
+gulp.task('copy-env-file', function () {
+  return gulp.src('assets/json/env.json').pipe(gulp.dest('assets/json'));
+});
+
 gulp.task('jekyll-serve', function (done) {
   doSpawn('serve', done);
 });
@@ -95,7 +99,10 @@ gulp.task('watch', function (done) {
   done();
 });
 
-gulp.task('build', gulp.series('jekyll-clean', 'scss', 'js', 'jekyll-build'));
+gulp.task(
+  'build',
+  gulp.series('jekyll-clean', 'scss', 'js', 'copy-env-file', 'jekyll-build')
+);
 
 gulp.task('clean', gulp.series('jekyll-clean'));
 
