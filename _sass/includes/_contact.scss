@@ -15,7 +15,9 @@
     text-transform: lowercase;
   }
 
-  iframe {
+  .map {
+    width: 100%;
+    height: 400px;
     filter: grayscale(100%);
   }
 
