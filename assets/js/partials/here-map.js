@@ -1,5 +1,7 @@
 (async () => {
-  const data = await (await fetch('assets/json/env.json')).json();
+  const data = await (
+    await fetch(window.location.origin + '/assets/json/env.json')
+  ).json();
 
   /**
    * Moves the map to display over Homoki Ügyvédi Iroda
