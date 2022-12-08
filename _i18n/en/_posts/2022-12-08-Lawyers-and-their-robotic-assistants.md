@@ -13,7 +13,7 @@ tags:
 
 **5th Webinar on the Use of Artificial Intelligence in the Justice Field: Chatbots and Tools Facilitating Access to Information**
 
-Tuesday morning, from 9:30 to 17:00, the European Commission will keep its next, this time fifth webinar on the use of AI in the justice field. This time the focus will be on chatbots.
+December 13th (Tuesday) morning, from 9:30 to 17:00, the European Commission will keep its next, this time fifth webinar on the use of AI in the justice field. This time the focus will be on chatbots.
 
 I am honored to make a presentation on how lawyers of the European Union may make use of conversational agents. 
 
