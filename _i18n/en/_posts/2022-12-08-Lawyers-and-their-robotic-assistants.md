@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  Lawyers and their robotic assistants
-date:   2022-12-13 09:30:00 +0100
+title: Lawyers and their robotic assistants
+date: 2022-12-13 09:30:00 +0100
 author: dr. Homoki Péter
-image: "Ambulance_chaser_robot.jpg"
+image: 'Ambulance_chaser_robot.jpg'
 tags:
   - chatbot
   - lawyers
   - AI4Lawyers
 ---
+
 # How and for what purposes lawyers use conversational agents?
 
 **5th Webinar on the Use of Artificial Intelligence in the Justice Field: Chatbots and Tools Facilitating Access to Information**
 
 December 13th (Tuesday) morning, from 9:30 to 17:00, the European Commission will keep its next, this time fifth webinar on the use of AI in the justice field. This time the focus will be on chatbots.
 
-I am honored to make a presentation on how lawyers of the European Union may make use of conversational agents. 
+I am honored to make a presentation on how lawyers of the European Union may make use of conversational agents.
 
 My presentation will be from 11:00 to 11:30, please do join the webinar or at least watch the stream [here](https://webcast.ec.europa.eu/5th-webinar-on-the-use-of-artificial-intelligence-in-the-justice-field-22-12-13)
 

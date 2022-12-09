@@ -31,6 +31,8 @@ plugins:
   - jekyll-multiple-languages-plugin
   - jekyll-paginate-v2
 
+future: true
+
 languages: ['hu', 'en']
 
 sass:
