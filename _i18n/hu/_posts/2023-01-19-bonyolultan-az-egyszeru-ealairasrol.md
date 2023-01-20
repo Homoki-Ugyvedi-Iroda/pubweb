@@ -62,7 +62,7 @@ Lehet-e az aláíró adat és az aláírt adat ugyanazon adatállomány akár te
 
 Mivel az egyszerű elektronikus aláírás fogalma eredendően tág, uniós szinten nem fogunk találni erre vonatkozóan eligazítást, szűkítő értelmezést. 
 
-Nehéz tagadni, hogy a felvétel sajét maga is adat, és a tartalom jóváhagyására (hitelesítésére) vonatkozó szándék is egyértelmű.  Az igazi kérdés így az, hogy ha egyetlen adatfolyamunk van, beszélhetünk-e külön aláíró és aláírt adatról, és a kettő legalább logikai egymáshoz rendeléséről? Mennyiben kell elkülönülnie az aláíró adat és az aláírni kívánt adatnak?
+Nehéz tagadni, hogy a felvétel saját maga is adat, és a tartalom jóváhagyására (hitelesítésére) vonatkozó szándék is egyértelmű.  Az igazi kérdés így az, hogy ha egyetlen adatfolyamunk van, beszélhetünk-e külön aláíró és aláírt adatról, és a kettő legalább logikai egymáshoz rendeléséről? Mennyiben kell elkülönülnie az aláíró adat és az aláírni kívánt adatnak?
 
 A jogértelmezés során természetesen ez utóbbi kizártságába is lehet kapaszkodni, de célszerűbb, ha az egyszerű e-aláírás általánossága miatt nem ez lesz a jogalkotói cél (az okirat alapú megoldásokra való hosszú távú átállás) kulcs eleme. Az egyszerű e-aláírásba igazából bármi digitális adat beleférhet, ehhez valódi joghatás egyébként sem fűződik, nincsen igazán jelentősége, hogy mit sorolunk be e fogalom alá és mit nem.
 
