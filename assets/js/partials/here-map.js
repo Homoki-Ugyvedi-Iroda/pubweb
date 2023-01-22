@@ -26,12 +26,13 @@
     document.getElementById('map'),
     defaultLayers.vector.normal.map,
     {
-      center: { lat: 47.50644, lng: 19.0493 },
+      center: { lat: 47.51482, lng: 19.04863 },
       zoom: 17,
+      
     }
   );
 
-  const coords = { lat: 47.50644, lng: 19.0493 };
+  const coords = { lat: 47.51482, lng: 19.04863 };
   const marker = new H.map.Marker(coords);
 
   // Add the marker to the map and center the map at the location of the marker:
