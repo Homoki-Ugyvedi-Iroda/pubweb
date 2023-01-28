@@ -19,11 +19,10 @@ tags:
 Az EU 2022. október 19-én elfogadta a digitális szolgáltatásokról szóló rendeletét (amelyre röviden **DSA**-ként is fogunk hivatkozni),[^1] ezzel tovább bővítette az egyes online tevékenységek ellátására
 vonatkozó szabályok körét.
 
-Az előírásainak majd 2024. február 17-étől kell megfelelni, mivel közvetlenül alkalmazható rendelet lesz, hazai átültetés, hazai jogalkotás nem is feltétlenül fog történni. Az új rendelet számos olyan internetes szolgáltató tevékenységét érinteni fogja, olyanokat is, akik nem fogyasztók számára nyújtották csak szolgáltatásaikat. Érdemes ezért röviden kitérni ezekre az új elvárásaira.
+Az előírásainak majd 2024. február 17-étől kell megfelelni, mivel közvetlenül alkalmazható rendelet lesz, hazai átültetés, hazai jogalkotás nem is feltétlenül fog történni. Az új rendelet számos internetes szolgáltató tevékenységét érinteni fogja, olyanokét is, akik nem fogyasztók számára nyújtják csak a szolgáltatásaikat. Érdemes ezért kitérni az új elvárásaira.
 
-Maga a rendelet számos méretfüggő szabályt is tartalmaz, de a jelen cikkben csak azokat a szabályokat fogjuk bemutatni, amelyek a kisvállalkozásokra is irányadóak, ezen belül is azokra, amelyek -- akár tudtukon kívül -- közvetítő szolgáltatóknak minősülnek.
-
-A cikkben azonban nem csak a digitális szolgáltatásokról szóló rendelet új szabályaira térünk ki. Elkerülhetetlen, hogy bemutassuk azt is, hogy mi a különbség a papíron már két és fél éve alkalmazandó P2B (platform-to-business) rendelet (**P2B rendelet**) szabályaihoz képest, hiszen e két szabályozó között igen nagy a tartalmi átfedés.[^2]
+Maga a rendelet számos méretfüggő szabályt is tartalmaz, és a jelen cikkben csak azokat a szabályokat fogjuk bemutatni, amelyek a kisvállalkozásokra is irányadóak.
+A cikkben nem csak a digitális szolgáltatásokról szóló rendelet új szabályaira térünk ki. Elkerülhetetlen, hogy bemutassuk azt is, hogy mi a különbség a már két és fél éve alkalmazandó P2B (platform-to-business) rendelet (**P2B rendelet**) szabályaihoz képest, hiszen e két szabályozó között igen nagy a tartalmi átfedés.[^2]
 
 Az uniós versenyképesség jegyében tehát a kisvállalkozók tevékenységére irányadó szabályok családja újabb taggal bővült, kiegészítve az eddigi adatvédelmi, szavatossági és elektronikus szerződéskötési, fogyasztóvédelmi, kereskedelmi, adózási, szerzői jogi és IT biztonsági felügyelettel összefüggő szabályok népes sokaságát.
 
@@ -110,8 +109,7 @@ Az online közvetítő szolgáltatás fogalma és a P2B rendelet az üzleti „t
 
 Tehát a P2B rendelet a fogyasztói jellegű platformokra nem irányadó (tipikusan a közösségi hálókra, TikTok stb.), míg a DSA online platform kifejezése ezeket a fogyasztók közötti platformokat is lefedi.
 
-A P2B rendelet a digitális szolgáltatási rendelethez képest ugyan szűkebb körre vonatkozik, de annál részletesebb és szigorúbb szabályokat tartalmaz. A szomorú igazság azonban az, hogy a P2B rendelet még a mai napig egyik
-tagállamban sem érvényesül igazán,[^26] noha már 2020. július óta alkalmazandó volna.[^27] Olaszországban az illetékes hatóság nyilvános konzultációt követően már egy alkalmazási útmutatót is közzétett,[^28] de más országokban (pl. Magyarország) azt sem tudjuk, hogy ki lenne az e tárgyban eljárni hivatott hatóság. A 27 tagállamból eddig csak három vette a fáradságot arra, hogy az üzleti felhasználók érdekeit képviselő hatóságot vagy szervezetet jelöljön ki a P2B rendelet szerint. A Bizottságnak is több, mint egy éve már meg kellett volna küldenie a jelentését a Parlamentnek a P2B rendelet alkalmazásának tapasztalatairól -- a jelentés tervezete a közbeszerzések tanúsága szerint már elkészült ugyan, de még nem nyilvános.
+A P2B rendelet a digitális szolgáltatási rendelethez képest ugyan szűkebb körre vonatkozik, de annál részletesebb és szigorúbb szabályokat tartalmaz. Nehéz a rendelet érvényesülését észrevenni, noha már 2020. július óta alkalmazandó. Néhány nagyobb platform szolgáltató esetén megtalálhatjuk már a nyomát az új szabályozásnak, de néhány esetében még nem.[^26] Olaszországban az illetékes hatóság nyilvános konzultációt követően már egy alkalmazási útmutatót is közzétett,[^27] de más országokban (pl. Magyarország) azt sem lehet tudni, hogy mely hatóság jár el majd e tárgyban. A 27 tagállamból eddig csak három vette a fáradságot arra, hogy az üzleti felhasználók érdekeit képviselő hatóságot vagy szervezetet jelöljön ki a P2B rendelet szerint. A Bizottságnak is több, mint egy éve már meg kellett volna küldenie a jelentését a Parlamentnek a P2B rendelet alkalmazásának tapasztalatairól -- a jelentés tervezete a közbeszerzések tanúsága szerint már elkészült ugyan, de még nem nyilvános.[^28]
 
 Tekintsük át röviden, hogy miben térnek el a P2B rendelet kötelezettségei a DSA kötelezettségeihez képest.
 
@@ -128,6 +126,8 @@ Végül csak a P2B rendelet alapján kötelesek a kisvállalkozások a szerződ�
 Tekintettel arra, hogy a P2B rendelet és a DSA rendelet még hazai szinten is jelentős számú szolgáltatót fog érinteni, indokolt volna e két uniós jogi aktus tárgyában a minél intenzívebb ismeretterjesztés. A P2B rendelet tényleges alkalmazása sok országban, így Magyarországon is várat még magára, annak ellenére, hogy az alkalmazás megkezdésének határideje már két és fél éve lejárt. Valószínűleg a jogosultak nem is tudnak arról, hogy e téren jogaikat nem tartják be, a szükséges információkat nem teszik közzé, a tagállamok és hatóságok pedig kevés kivétellel nem segítenek ezek a helyzeten. 
 
 Ahogy közeledik a 2024. február 17-i időpont, egyre valószínűbb, hogy e két rendelet hatása együtt fog csak tudatosulni a felhasználók és a szolgáltatók körében is. Minél később kezdenek el azonban felkészülni ezekre a nem elhanyagolható költségű változásokra a kisvállalkozások, annál drágább lesz a megfelelés költsége, annál kevesebb lehetőség lesz a koordinált, költséghatékony informatikai és jogi megoldások alkalmazására.
+
+(Utoljára frissítve 2023. január 28-án)
 
 [^1]: AZ EURÓPAI PARLAMENT ÉS A TANÁCS (EU) 2022/2065 RENDELETE (2022. október 19.) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról (digitális szolgáltatásokról szóló rendelet), <https://eur-lex.europa.eu/eli/reg/2022/2065>.
 
@@ -179,11 +179,11 @@ Ahogy közeledik a 2024. február 17-i időpont, egyre valószínűbb, hogy e k�
 
 [^25]: Ugyanott 2. cikk 2. pont.
 
-[^26]: A P2B rendelet hatálya alá tartozó szolgáltatók által közzétett felhasználási feltételek közöt is kivételes az, hogy erre a szabályozásra bárki utalna, megpróbálta volna alkalmazni. Ilyen ritka kivétel például a Shopify feltételei (<https://www.shopify.com/legal/eu-terms>).
+[^26]: Pl. az airbnb, booking, Shopify esetén találtunk ilyen, a P2B rendeletből következő rendelkezéseket, de pl. az eBay és Amazon webáruház esetén nem.
 
-[^27]: Megjegyzendő, hogy a magyar jogrendben használt időbeli hatályosság és alkalmazhatóság nem azonos azzal, amit az uniós jogrendben értenek alatta. A magyar alkotmányjog is ismeri a kettő fogalom különbségét, de az alkalmazást csak kivételesen választják el ilyen élesen és hosszú időtartamra a hatályosságtól (pl. a 2013. évi CLXXVII. törvény 50. § és 58. § esetén a 2014. március 15 előtt kötött szerződésekre és tett végrendeletekre még a mai napig a régi Ptk. rendelkezéseit kell alkalmazni. Az uniós jogban azonban ez jóval gyakoribb: a DSA már 2022. november 8-án hatályba lépett, azaz az uniós jogrend része, és -- ebben az értelemben -- már hatályon kívül is helyezte az e-kereskedelmi irányelv közvetítő szolgáltatóra vonatkozó rendelkezéseit. Közvetlenül alkalmazható lesz majd rendeletként, de csak 2024. február 17-től.
+[^27]: [Delibera N. 406/22/CONS](https://www.agcom.it/documents/10179/28582788/Delibera+406-22-CONS/f6730d70-2f7c-4899-834f-98a5ba4b8bc6?version=1.1)v Linee guida per l'adeguata ed efficace applicazione del Regolamento (UE) 2019/1150 e instituzione tavolo tecnico.
 
-[^28]: [Delibera N. 406/22/CONS](https://www.agcom.it/documents/10179/28582788/Delibera+406-22-CONS/f6730d70-2f7c-4899-834f-98a5ba4b8bc6?version=1.1)v Linee guida per l'adeguata ed efficace applicazione del Regolamento (UE) 2019/1150 e instituzione tavolo tecnico.
+[^28]: Lásd \‘Study on “Evaluation of the Regulation (EU) 2019/1150 on Promoting Fairness and Transparency for Business Users of Online Intermediation Services (the P2B Regulation)\”\’ <https://ppmi.lt/study-on-evaluation-review-p2b-regulation-20191150-248>, hozzáférés 2023. január 28-án
 
 [^29]: P2B rendelet 3. és 8. cikk
 
