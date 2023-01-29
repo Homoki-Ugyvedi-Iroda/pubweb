@@ -58,7 +58,7 @@ A definícióban nem szerepel, de az online platformok lényegi eleme az, hogy k
 
 Kiemelendő még, hogy az online platform rendeletbeli fogalmát túl tágan is lehet értelmezni, alapvetően olyan hosting szolgáltatást is e fogalmi kör alá lehet vonni, aminél nem indokolt a platform jelleg sajátosságaiból fakadó szabályokat alkalmazni. E körben azokra a felhőszolgáltatásokra kell gondolni, amelyek célja bizonyos platform vagy infrastruktúra biztosítása a végfelhasználók számára. A rendelet (13) preambulum bekezdése is erre utal: „... *az infrastruktúraként -- például egy internetalapú alkalmazás, webhely vagy online platform mögöttes infrastrukturális tárhelyeként -- funkcionáló felhőszolgáltatások és webtárhely-szolgáltatások önmagukban nem tekintendők olyan szolgáltatásoknak, amelyek egy ... igénybe vevőjének kérésére tárolt vagy feldolgozott információkat nyilvánosan terjesztenek.*"
 
-![](assets/images/original/kozvetito_mermaid-diagram-20230123182409.png)
+![](/assets/images/original/kozvetito_mermaid-diagram-20230123182409.png){:class="img-responsive"}
 
 ## A minden kisvállalkozó közvetítő szolgáltatóra irányadó szabályokról
 
