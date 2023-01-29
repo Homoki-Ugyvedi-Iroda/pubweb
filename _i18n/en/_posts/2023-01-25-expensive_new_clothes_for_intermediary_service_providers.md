@@ -56,7 +56,7 @@ Not included in the definition, but an essential element of online platforms is 
 
 It should also be emphasised that the concept of online platform in the Regulation can be interpreted too broadly, basically hosting services can be included in this conceptual scope, where there is no reason to apply rules arising from the specific characteristics of the platform. This should be understood as cloud services that aim to provide a specific platform or infrastructure to end-users. This is also referred to in recital 13 of the Regulation: '... *cloud services and web hosting services that function as infrastructure, such as the underlying infrastructure hosting of an Internet-based application, website or online platform, should not be considered as services that publicly distribute information stored or processed at the request of a user.*'
 
-![](assets/images/original/kozvetito_mermaid-diagram-20230123182409.png)
+![](/assets/images/original/kozvetito_mermaid-diagram-20230123182409.png){:class="img-responsive"}
 
 ## About the rules that apply to all small business intermediary service providers
 
