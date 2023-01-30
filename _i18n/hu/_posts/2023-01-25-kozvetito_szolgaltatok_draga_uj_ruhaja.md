@@ -14,6 +14,8 @@ tags:
 
 # Avagy mire számítsanak a magyar kisvállalkozások?
 
+A cikk megjelent az [ArsBoni](https://arsboni.hu/a-kozvetito-szolgaltatok-draga-uj-ruhaja-mire-szamitsanak-a-magyar-kisvallalkozasok/) oldalán!
+
 ## Bevezető
 
 Az EU 2022. október 19-én elfogadta a digitális szolgáltatásokról szóló rendeletét (amelyre röviden **DSA**-ként is fogunk hivatkozni),[^1] ezzel tovább bővítette az egyes online tevékenységek ellátására vonatkozó szabályok körét.
