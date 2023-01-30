@@ -14,6 +14,8 @@ tags:
 
 # Or what should Hungarian small businesses expect?
 
+Published on [ArsBoni](https://arsboni.hu/a-kozvetito-szolgaltatok-draga-uj-ruhaja-mire-szamitsanak-a-magyar-kisvallalkozasok/)! 
+
 ## Introduction
 
 On 19 October 2022, the EU adopted the Digital Services Act (which we will refer to as **DSA**),[^1] further extending the scope of the regulation to cover the provision of certain online activities for certain online activities.
