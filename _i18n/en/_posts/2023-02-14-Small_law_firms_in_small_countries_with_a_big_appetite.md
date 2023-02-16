@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Small law firms in small countries with a big appetite: how AI and platform might change small firms?
-date:   2023-02-14 12:00:00 +0100
+date:   2023-02-14 12:00:00 +0200
 author: dr. Homoki Péter
 image: "apples_into_a_machine.jpg"
 tags:
@@ -14,6 +14,7 @@ tags:
 ---
 
 # Presentation at Pázmány Péter Catholic University, Faculty of Law and Political Sciences (Law and Language Research Group)
+
 (Transcript of a short presentation, see the PDF of the presentation with tables and pictures [here](/assets/files/230214_PPKE_small_firms.pdf)
 Today, I would like to give you a presentation on how artificial intelligence and platform power (algorithmic-based control in the society) may change the future of lawyers.
 
