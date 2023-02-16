@@ -64,5 +64,7 @@ c) How independent these intermediaries themselves will be from larger platform 
 
 As of now, it is not yet possible to answer these points of uncertainties, especially not for such a diverse economy as that of the EU.
 [^1]: See [https://www.ai4lawyers.eu](https://www.ai4lawyers.eu)
+
 [^2]: [https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf)
+
 [^3]: See the first deliverable of the AI4Lawyers project: Overview on the "average state of the art" IT capabilities of law firms in the European Union and gap analysis compared to US/UK/Canada best practices, at [https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf)
