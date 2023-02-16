@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Small law firms in small countries with a big appetite: how AI and platform might change small firms?
-date:   2023-02-14 12:00:00 +0200
+title: Small law firms in small countries with a big appetite - how AI and platform might change small firms?
+date: 2023-02-14 12:00:00 +0200
 author: dr. Homoki Péter
 image: "apples_into_a_machine.jpg"
 tags:
