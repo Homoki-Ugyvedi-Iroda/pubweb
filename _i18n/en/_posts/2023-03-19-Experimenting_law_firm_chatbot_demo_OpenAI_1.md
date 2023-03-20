@@ -59,9 +59,7 @@ Nevertheless, for illustration purposes, let’s see how this chatbot works, why
 
 ## Limitations of customization by examples and prompts
 
-The current demo chatbot uses the engine called GPT-3.5, but that’s just purely for reasons of economy: answering via the GPT-4 costs 15 times as much as GPT-3.5.[^4] Thanks to the OpenAI API, it is easy to customize to some extent how the chatbot works, what kind of answers it gives, and most importantly, what kind of responses it should refrain from giving.
-
-[^4]: The demo chatbot works with GPT-4 as well,
+The current demo chatbot uses the engine called GPT-3.5, but that’s just purely for reasons of economy: answering via the GPT-4 costs 15 times as much as GPT-3.5. Thanks to the OpenAI API, it is easy to customize to some extent how the chatbot works, what kind of answers it gives, and most importantly, what kind of responses it should refrain from giving.
 
 As you can see from the [source code](https://github.com/Homoki-Ugyvedi-Iroda/chatbotdemo-lawfirm-2303), besides the mandatory branding of the front end to the law firm (which is a very basic web application in this case), this customization is made via question and answer [examples](https://github.com/Homoki-Ugyvedi-Iroda/chatbotdemo-lawfirm-2303/blob/main/static/prompt_qa_examples.json) and [prompt instructions](https://github.com/Homoki-Ugyvedi-Iroda/chatbotdemo-lawfirm-2303/blob/main/static/prompt_instructions.txt). The examples are made of pairs of questions and answers, while the prompt instructions are effectively fed to the model before the user can input their own questions (providing some built-in “bias” based on which to give answers).
 
