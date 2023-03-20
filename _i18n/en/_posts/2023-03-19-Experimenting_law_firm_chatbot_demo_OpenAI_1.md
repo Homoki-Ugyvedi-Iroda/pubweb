@@ -11,7 +11,7 @@ tags:
 - lawyers
 ---
 
-First, please kindly check out this demo "law firm chatbot" at <https://chatbotdemo.homoki.net> using OpenAI API access to the chat completion function of GPT 3.5 engine. In short, this chatbot demonstrates some ways how the wildly successful ChatGPT can be used in small law firms.
+First, please kindly check out this demo "law firm chatbot" at <https://chatbotdemo.homoki.net> using OpenAI API access to the chat completion function of GPT 3.5 engine. In short, this chatbot demonstrates some ways how the wildly successful ChatGPT can be used in small law firms. (Click [here](/assets/files/2023-03-19-Experimenting_law_firm_chatbot_demo_OpenAI_1.pdf) for the PDF version.)
 
 # Introduction
 
