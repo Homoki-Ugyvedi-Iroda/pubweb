@@ -97,7 +97,7 @@ Even the current terms of the OpenAI API usage policy clearly state that these m
 
 At least in its current state, this chatbot is not best suited for all typical chatbot cases. It might give users incorrect answers regarding contact details or the firm’s area of expertise. It is not ideal for booking appointments with lawyers. Even if GPT excels at interpreting the intent of potential clients, and could technically be capable of checking a calendar for free time slots, it is currently much easier and more reliable to do so via a dedicated application (with the possibility of connecting to payment services to give weight to the time slots booked).
 
-While this particular demo chatbot can only be used for client-facing purposes, the processing capabilities of the OpenAI API (including GPT completion uses) extend beyond this simplistic chatbot functionality. The salient feature of the model is its ability to converse fluently in many languages, but rather (since GPT-3.5) its capacity to give astonishingly accurate answers to very complex questions, as long as the question does not relate to facts beyond September 2021.
+While this particular demo chatbot can only be used for client-facing purposes, the processing capabilities of the OpenAI API (including GPT completion uses) extend beyond this simplistic chatbot functionality. The salient feature of the model is not its ability to converse fluently in many languages, but rather (since GPT-3.5) its capacity to give astonishingly accurate answers to very complex questions, as long as the question does not relate to facts beyond September 2021.
 
 Let’s get a quick overview of this based on current experiences, and I believe we will have to return to these issues later for more in-depth discussions.
 
