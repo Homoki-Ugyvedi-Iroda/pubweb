@@ -13,7 +13,7 @@ tags:
 
 The presentation is available [here](https://homoki.net/assets/files/Digitalisation of Justice_Guide_on_the_use_of_AI_for_lawyers.pdf)
 
-Good morning everyone. My name is Peter Homoki, I am a Hungarian lawyer focusing on IT, and I will present you a guide for the lawyers made last year by the Council of Bars and Law Societies of Europe and ELF
+Good morning everyone. My name is Peter Homoki, I am a Hungarian lawyer focusing on IT, and I will present you a guide for the lawyers published last year by the Council of Bars and Law Societies of Europe and ELF
 regarding the use of AI tools.
 
 I have twenty minutes to cover this subject. I have worked on this project for a very long time, so I must be very concise.
