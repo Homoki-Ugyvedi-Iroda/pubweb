@@ -3,7 +3,7 @@ layout: post
 title: A possible transcript of the presentation on Guide on the use of AI-tools by lawyers and law firms in the EU
 date: 2023-04-27 10:00:00 +0200
 author: dr. Homoki Péter
-image: "school_in_the_jungle.png"
+image: "school_in_the_jungle.jpg"
 tags:
 - large language models
 - AI4Lawyers
