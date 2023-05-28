@@ -2,7 +2,7 @@
 ---
 layout: post
 title: An actual transcript of the presentation on Guide on the use of AI-tools by lawyers and law firms in the EU
-date: 2023-04-27 0:00:00 +0200
+date: 2023-04-28 0:00:00 +0200
 author: dr. Homoki Péter
 image: "230528_jud_training_logo.jpg"
 tags:
@@ -12,15 +12,22 @@ tags:
 - transcription
 - redaction
 ---
-You can watch the original video [here](https://www.youtube.com/watch?v=JvFb-OO7dEc&t=1010s). This transcript is the *almost* raw output of the  OpenAI models (Whisper for transcription, plus GPT-4 for redaction as used in this [Python app](https://github.com/Homoki-Ugyvedi-Iroda/transcribe_redact_TUI). 
 
-The only changes I've made were 
+## Introduction
+
+You can watch the original video [here](https://www.youtube.com/watch?v=JvFb-OO7dEc&t=1010s). This transcript is the *almost* raw output of the  OpenAI models (Whisper for transcription, plus GPT-4 for redaction as used in this [Python app](https://github.com/Homoki-Ugyvedi-Iroda/transcribe_redact_TUI). The presentation is available [here](https://homoki.net/assets/files/Digitalisation of Justice_Guide_on_the_use_of_AI_for_lawyers.pdf)
+
+The only changes I've made in the text were 
+
 a) editing so the transcription starts from the relevant part only,
+
 b) I've corrected the proper name of CCBE's secretary general.
 
 The "initial prompt" for the transcription module only included the words "Peter, AI, lawyer, artificial intelligence", so there was not much of a help here.
 
 I'm sure there are a number of remaining errors, but it's a good example how useful these tools already are, at least in English.
+
+## Transcription
 
 This guide is work of many years and it has been published last year, last April by the Council of Bars and Law Societies of Europe and the European Lawyers Foundation. We started the work in 2020 because it was co-funded by the EU and after the, well in April 2020, so it was not really a very good moment for meetings, in-person meetings, so we saved a lot of money on that, but actually against all these odds we had to do lots of research and work on this subject.
 
