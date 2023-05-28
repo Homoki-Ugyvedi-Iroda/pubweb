@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: An actual transcript of the presentation on Guide on the use of AI-tools by lawyers and law firms in the EU
