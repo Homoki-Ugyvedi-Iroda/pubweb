@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Experimenting with OpenAI models for transcription and redaction of presentations in the legal field (using a text user interface front-end)
