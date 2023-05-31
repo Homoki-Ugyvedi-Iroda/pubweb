@@ -113,14 +113,24 @@ Of course, besides question-answering, there are also other areas that will have
 
 
 [^1]: Nandan Thakur and others, ‘BEIR: A Heterogenous Benchmark for Zero-Shot Evaluation of Information Retrieval Models’ (arXiv, 20 October 2021) p. 6. <http://arxiv.org/abs/2104.08663> accessed 28 May 2023.
+
 [^2]: Dezhao Song and others, ‘On the Effectiveness of Pre-Trained Language Models for Legal Natural Language Processing: An Empirical Study’ (2022) 10 IEEE Access 1.
+
 [^3]: Ilias Chalkidis and others, ‘LEGAL-BERT: The Muppets Straight out of Law School’ (2020) abs/2010.02559 CoRR <https://arxiv.org/abs/2010.02559>.
+
 [^4]: As only siths deal in absolute, we have to mention that many NLP tools are very good at being used across languages, like embeddings, tokenizations, clusterings etc., but in downstream tasks we nevertheless have to be prudent.
+
 [^5]: For those interested, I suggest the following papers that are of more interest to lawyers than others:
+
 Jorge Martinez-Gil, ‘A Survey on Legal Question Answering Systems’ (2023) 48 Computer Science Review 100552.; Tom Kwiatkowski and others, ‘Natural Questions: A Benchmark for Question Answering Research’ (2019) 7 Transactions of the Association for Computational Linguistics 452.; in Hungarian: Attila Novák and Borbála Novák, ‘MILQA kérdés-válasz benchmark adatbázis’, _Magyar Számítógépes Nyelvészeti Konferencia_ (2023) <http://acta.bibl.u-szeged.hu/78414/> accessed 26 May 2023.
+
 [^6]: Zhilin Yang and others, ‘HotpotQA: A Dataset for Diverse, Explainable Multi-Hop Question Answering’, _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_ (Association for Computational Linguistics 2018) <https://aclanthology.org/D18-1259> accessed 26 May 2023.
+
 [^7]: For more explanation, I suggest reading Daniel Gillick, Alessandro Presta and Gaurav Singh Tomar, ‘End-to-End Retrieval in Continuous Space’ (arXiv, 19 November 2018) <http://arxiv.org/abs/1811.08008> accessed 31 May 2023.
+
 [^8]: Daniel Martin Katz and others, ‘GPT-4 Passes the Bar Exam’ (15 March 2023) <https://papers.ssrn.com/abstract=4389233> accessed 26 March 2023. Of course, the Hungarian "bar exam" (jogi szakvizsga, unified exam for all legal professions) is very different from the Uniform Bar Examination.
-[^9]: Such multiple-choice answers are usually not called question-answering systems, but text understanding systems, see e.g. Ilias Chalkidis and others, ‘LexGLUE: A Benchmark Dataset for Legal Language Understanding in English’, _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ (Association for Computational Linguistics 2022) <https://aclanthology.org/2022.acl-long.297> accessed 31 May 2023.
+
+[^9]: Such multiple-choice answers are usually not called question-answering systems, but text understanding systems, see e.g. Ilias Chalkidis and others, ‘LexGLUE: A Benchmark Dataset for Legal Language Understanding in English’, Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ (Association for Computational Linguistics 2022) <https://aclanthology.org/2022.acl-long.297> accessed 31 May 2023.
+
 [^10]: Dan Hendrycks and others, ‘CUAD: An Expert-Annotated NLP Dataset for Legal Contract Review’ (arXiv, 8 November 2021) <http://arxiv.org/abs/2103.06268> accessed 31 May 2023.
 Soha Khazaeli and others, ‘A Free Format Legal Question Answering System’, _Proceedings of the Natural Legal Language Processing Workshop 2021_ (Association for Computational Linguistics 2021) <https://aclanthology.org/2021.nllp-1.11> accessed 31 May 2023.
