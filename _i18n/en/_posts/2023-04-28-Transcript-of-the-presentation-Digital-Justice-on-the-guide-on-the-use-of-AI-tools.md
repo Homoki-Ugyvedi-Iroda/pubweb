@@ -12,9 +12,9 @@ tags:
 - redaction
 ---
 
-## Introduction
+This transcript is the *almost* raw output of the  OpenAI models (Whisper for transcription, plus GPT-4 for redaction as used in this [Python app](https://github.com/Homoki-Ugyvedi-Iroda/transcribe_redact_TUI). The presentation is available [here](https://homoki.net/assets/files/Digitalisation of Justice_Guide_on_the_use_of_AI_for_lawyers.pdf)
 
-You can watch the original video [here](https://www.youtube.com/watch?v=JvFb-OO7dEc&t=1010s). This transcript is the *almost* raw output of the  OpenAI models (Whisper for transcription, plus GPT-4 for redaction as used in this [Python app](https://github.com/Homoki-Ugyvedi-Iroda/transcribe_redact_TUI). The presentation is available [here](https://homoki.net/assets/files/Digitalisation of Justice_Guide_on_the_use_of_AI_for_lawyers.pdf)
+You can watch the original video [here](https://www.youtube.com/watch?v=JvFb-OO7dEc&t=1010s). 
 
 The only changes I've made in the text were 
 
