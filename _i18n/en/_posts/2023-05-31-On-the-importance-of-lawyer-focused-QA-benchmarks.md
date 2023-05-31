@@ -13,7 +13,7 @@ tags:
 
 In this blogpost, I would like to highlight the importance of crowdsourcing some datasets by lawyers that are specific to jurisdictions and legal areas. I will also illustrate the difficulties with my own, tiny experiment in the field of legal question answering in Hungarian while using the large language models, both with and without the legal texts provided.
 
-# 1. Introduction
+## 1. Introduction
 
 There are already powerful tools available, having the potential to change our work as lawyers. However, some important parts are still missing.
 
@@ -27,7 +27,7 @@ b) even commercial solution providers offer tools that are far from being reliab
 
 But there is a solution that could help small law firms and solo lawyers share the burden of prudently testing in production.
 
-# 2. Datasets and benchmarks in NLP are not enough for lawyers' needs
+## 2. Datasets and benchmarks in NLP are not enough for lawyers' needs
 
 The natural language processing (NLP) literature and the tools used for such NLP tasks have dozens of widely-used datasets and benchmarks. They serve as a very important foundation upon which researchers and solution providers rely on. Datasets provide the golden set of standards for certain tasks, and new NLP tools such as language models are measured against these benchmarks.
 
@@ -43,7 +43,7 @@ So even such costly advantages of pre-training may diminish when English languag
 
 Both these points support the argument that if we want to be able to rely more on the performance of large language models in legal tasks, lawyers in each jurisdiction of the EU should develop their own benchmarks and datasets to measure the performance of the AI tools they would like to rely on.
 
-# 3. Focusing on lawyers’ tasks for each jurisdiction and field of law
+## 3. Focusing on lawyers’ tasks for each jurisdiction and field of law
 
 Lawyers have to rely on NLP tools to automate their own tasks, but they have to do it in a way that is a bit specific to lawyers’ own, characteristic use cases.
 
@@ -79,7 +79,7 @@ e) Finally, this context „chunk” just retrieved from the database is fed to 
 
 Thus, the LLM will try to answer the question based on the retrieved piece of text. Please note that the relevant piece of context for the answer was not retrieved by the LLM, but by a separate database (retrieval) function.
 
-# 4. Lessons learned from the evaluation of  answers
+## 4. Lessons learned from the evaluation of  answers
 
 The embeddings covered the Hungarian Civil Code and the Hungarian Code of Civil Procedures (e.g. 2 MB altogether), but they did not include commentaries, court decisions etc. Considering that the questions are all in Hungarian and relate to basic Hungarian law, there is not much point in translating these into English. The full technical details of the evaluation are available at [this](https://github.com/Homoki-Ugyvedi-Iroda/LawyerQAseed_experiment/tree/main) repository. We did not intend this evaluation to be a professional one, or even to be of good quality, but just as a simple demonstration of what kind of different categories of questions could there be in this field and which areas are more difficult to answer for these LLMs.
 
@@ -105,7 +105,7 @@ The results of the manual evaluation were the following -- considering the few q
 
 Anyway, there is no doubt that GPT-4 would never pass any Hungarian bar exam in these fields...[^8]
 
-# 5. Conclusion and next steps
+## 5. Conclusion and next steps
 
 We can already find detailed research on such topics as legal question-answering.[^10] However, these works are mostly specific to a single language and are usable only in some of the jurisdictions of the United States of America. For benchmarks to be useful for lawyers in the EU, it would be beneficial to have several coordinated datasets made of questions and (correct) answers for different jurisdictions and languages, in different areas of law. Of course, the questions and answers will not be the same from country to country, but they should be harmonised, in terms of subject matter and question categories (such as the same ratio of questions that are easily answered from a single paragraph, multi-hop questions etc.)
 
