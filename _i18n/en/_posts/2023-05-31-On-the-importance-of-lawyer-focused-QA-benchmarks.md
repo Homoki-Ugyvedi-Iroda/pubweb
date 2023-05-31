@@ -11,9 +11,9 @@ tags:
 - QA
 ---
 
-# 1. Introduction
-
 In this blogpost, I would like to highlight the importance of crowdsourcing some datasets by lawyers that are specific to jurisdictions and legal areas. I will also illustrate the difficulties with my own, tiny experiment in the field of legal question answering in Hungarian while using the large language models, both with and without the legal texts provided.
+
+# 1. Introduction
 
 There are already powerful tools available, having the potential to change our work as lawyers. However, some important parts are still missing.
 
