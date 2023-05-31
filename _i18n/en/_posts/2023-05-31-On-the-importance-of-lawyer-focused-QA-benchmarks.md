@@ -1,4 +1,3 @@
-﻿
 ---
 layout: post
 title: On the importance of lawyer-focused QA benchmarks
