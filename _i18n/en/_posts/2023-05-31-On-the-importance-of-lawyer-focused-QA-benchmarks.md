@@ -120,9 +120,7 @@ Of course, besides question-answering, there are also other areas that will have
 
 [^4]: As only siths deal in absolute, we have to mention that many NLP tools are very good at being used across languages, like embeddings, tokenizations, clusterings etc., but in downstream tasks we nevertheless have to be prudent.
 
-[^5]: For those interested, I suggest the following papers that are of more interest to lawyers than others:
-
-Jorge Martinez-Gil, ‘A Survey on Legal Question Answering Systems’ (2023) 48 Computer Science Review 100552.; Tom Kwiatkowski and others, ‘Natural Questions: A Benchmark for Question Answering Research’ (2019) 7 Transactions of the Association for Computational Linguistics 452.; in Hungarian: Attila Novák and Borbála Novák, ‘MILQA kérdés-válasz benchmark adatbázis’, _Magyar Számítógépes Nyelvészeti Konferencia_ (2023) <http://acta.bibl.u-szeged.hu/78414/> accessed 26 May 2023.
+[^5]: For those interested, I suggest the following papers that are of more interest to lawyers than others: Jorge Martinez-Gil, ‘A Survey on Legal Question Answering Systems’ (2023) 48 Computer Science Review 100552.; Tom Kwiatkowski and others, ‘Natural Questions: A Benchmark for Question Answering Research’ (2019) 7 Transactions of the Association for Computational Linguistics 452.; in Hungarian: Attila Novák and Borbála Novák, ‘MILQA kérdés-válasz benchmark adatbázis’, _Magyar Számítógépes Nyelvészeti Konferencia_ (2023) <http://acta.bibl.u-szeged.hu/78414/> accessed 26 May 2023.
 
 [^6]: Zhilin Yang and others, ‘HotpotQA: A Dataset for Diverse, Explainable Multi-Hop Question Answering’, _Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing_ (Association for Computational Linguistics 2018) <https://aclanthology.org/D18-1259> accessed 26 May 2023.
 
