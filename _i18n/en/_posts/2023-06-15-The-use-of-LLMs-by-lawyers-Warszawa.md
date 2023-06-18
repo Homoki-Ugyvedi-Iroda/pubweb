@@ -43,7 +43,7 @@ So first, LLMs are trained during the training phase, and based on these trainin
 
 The most popular branch is the grey one, that of the decoder-only transformed based language models, but that doesn’t mean that lawyers will be using only these type of LLMs, or that these are the best tools for all kinds of legal jobs. 
 
-(Source of the picture: [Yang et al.: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+(Source of the picture: [Yang et al.: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf))
 
 [5] Researches have identified around 2018 that by increasing the number of parameters trained (vocabulary, transformer layers, size of the feed forward neural network etc.), LLMs will attain new, surprising abilities.
 
@@ -95,7 +95,7 @@ I could also identify the more difficult question types where multiple steps and
 
 There are already a number of such benchmarks for legal uses, but separate tasks, jurisdictions and languages need separate benchmarks. Of course, it would make sense to harmonise such benchmarks across EU member states.
 
-(See also, e.g.: Evaluation of proposed models on real-world “datasets” in [Yang et al.: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+(See also, e.g.: Evaluation of proposed models on real-world “datasets” in [Yang et al.: Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf))
 
 [11] We have to be aware of the limitations of these LLMs. The most important limitation is that most of them are not usable for languages other than English. Even if the model would be capable of speaking in a given language, they may be limited to answering in English only.
 
