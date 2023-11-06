@@ -16,7 +16,7 @@ titles:
   home: Főoldal
   blog: Gondolatok
   error: '404'
-  colleagues: A csapat
+  # colleagues: A csapat
   tags: Címkék
   felveteli: Felvételi
 
