@@ -16,7 +16,7 @@ titles:
   home: Főoldal
   blog: Gondolatok
   error: '404'
-  # colleagues: A csapat
+  colleagues: A csapat
   tags: Címkék
   felveteli: Felvételi
 
@@ -30,7 +30,7 @@ intro: A Homoki Ügyvédi Iroda kizárólag informatikai és távközlési ügyf
 office:
   title: Az iroda
   description: Széles körű és egyedülálló ügyvédi tapasztalattal rendelkezünk az informatikai iparág területén. Az e téren szerzett több mint húsz éves szakmai tapasztalatnak köszönhetően felismerjük az ügyfeleinket fenyegető lényeges jogi kockázatokat, legyen szó informatikai szolgáltatások megrendelőiről vagy szállítóiról. A gyakorlati jártasságunknak köszönhetően gyorsan és jó minőségben tudunk e téren ügyfeleinknek támogatást nyújtani.
-  about_our_colleagues: Az iroda munkatársairól <a href="/colleagues/">itt</a> tudhat meg többet.
+  about_our_colleagues: Az iroda vezetőjéről <a href="/colleagues/">itt</a> tudhat meg többet.
 
 contact:
   title: Kapcsolat
@@ -41,7 +41,7 @@ contact:
 
 blog:
   title: Nézelődjön digitális kertünkben!
-  description: Itt időről-időre közzétesszünk néhány, az iroda dolgozói által készített, az informatika és a jog területével kapcsolatos, eltérő mélységű gondolatokat, illetve a más weboldalokon közzétett ilyen publikációinkat, eseményeket.
+  description: Itt időről-időre közzétesszünk néhány, az iroda vezetője által készített, az informatika és a jog területével kapcsolatos, eltérő mélységű gondolatokat, illetve a más weboldalokon közzétett ilyen publikációinkat, eseményeket.
 
 back: Vissza
 
