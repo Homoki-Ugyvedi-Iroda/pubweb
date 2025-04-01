@@ -19,7 +19,7 @@ jobs:
           ruby -v
 
       - name: Cache bundle dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
@@ -40,7 +40,7 @@ jobs:
           node -v
 
       - name: Cache npm dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
