@@ -18,7 +18,7 @@ tags:
 
 [Slides are available here](/assets/files/How bar associations should expect to use and regulate AI.pdf)
 
-The president of the Hungarian Bar Assocation has asked me to start with a presentation to start a debate on this topic.
+The president of the Hungarian Bar Association has asked me to start with a presentation to start a debate on this topic.
 
 How bar associations should use and regulate AI in the legal domain?
 
@@ -53,7 +53,7 @@ But LLMs do not help in processing or learning materials, do not decrease the am
 
 Even if some believe we won't need that much information in the future to learn, because LLMs will know those "less important things" instead of us ... But there is not much evidence behind that so far.
 
-So, while administative tasks (including those related to training) can be decreased, LLM can help us with filtering out bad training material, but the „elbow grease” requirement remains. We will still have to spend our neurons to understand things.
+So, while administrative tasks (including those related to training) can be decreased, LLM can help us with filtering out bad training material, but the „elbow grease” requirement remains. We will still have to spend our neurons to understand things.
 
 How can tools make it more difficult for bars to achieve training? Let me show you this short video as an example: {a one-minute video showing the use of ChatGPT Plus / Agents for passing a CLE training with minimal human intervention}
 
@@ -75,11 +75,9 @@ As you can see, the clear message seems to be that frontier models are either be
 
 And lawyers are just one profession, next in line with IT developers, where you can already hear very serious talks about job shortage due to frontier model capabilities. Even if that is not true, this is a very transparent and obvious problem that is much discussed. The only difference is, IT developers don't have bar associations, they are not a regulated profession. 
 
-I'm not sure we can efficiently fight these messages, but I believe we at least have to be able to have answers that fit into this narrative. This table 2 is from the same GDPval evaluation.
+I'm not sure we can efficiently fight these messages, but I believe we at least have to have answers that fit into this narrative.
 
-And lawyers are just one profession, next in line with IT developers, where you can already hear very serious talks about job shortage due to frontier model capabilities. Even if that is not true, this is a very transparent and obvious problem that is much discussed. The only difference is, IT developers don't have bar associations, they are not a regulated profession. 
-
-I'm not sure we can efficiently fight these messages, but I believe we at least have to be able to have answers that fit into this narrative. This table 2 is from the same GDPval evaluation
+This table 2 is from the same GDPval evaluation.
 
 Here, “naive” column means the frontier model output without human review – astonishing speed and cost improvements (even if we don’t know the real economics behind it), but of course, the results are not directly usable, not without a human. The “Try” columns mean the output was incorporated into a human review process.
 
@@ -107,7 +105,7 @@ The so-called open weight tools (that anyone can use and download) are getting v
 
 But the best performing models will always be too expensive for lawyers to run on their own hardware.
 
-Even if the cheap tools segments, there is lots of room for improvement, and within CCBE IT Law Committee, we are trying to provide some more technical guidelines explaining the differences between what is a cheap tool and what is an unattainably expensive supercomputer based tool.
+Even in the cheap tools' segments, there is lots of room for improvement, and within CCBE IT Law Committee, we are trying to provide some more technical guidelines explaining the differences between what is a cheap tool and what is an unattainably expensive supercomputer based tool.
 
 There is a way how we can be useful, even in an era where most of what we, as lawyers currently do, will be done better by machines.
 
