@@ -7,7 +7,6 @@ image: How_bar_associations_should_use_and_regulate_AI_in_legal.jpg
 tags:
   - bar association
   - law society
-  - GDPR
   - CCBE
   - lawyer
   - AI
@@ -25,7 +24,7 @@ How bar associations should use and regulate AI in the legal domain?
 
 Taking into account the reports submitted, I think we can assume that there are some typical topics within this area. I'm not saying we should discuss all these in detail, but this is the menu:
 
-a)	AI tools in providing bar services and in integration with e-government services (AI tools improving the bars own capabilities')
+a)	AI tools in providing bar services and in integration with e-government services (AI tools improving the bars' own capabilities)
 
 b)	regulating lawyers’ use of AI (deontology, ethics)
 
@@ -56,7 +55,7 @@ Even if some believe we won't need that much information in the future to learn,
 
 So, while administative tasks (including those related to training) can be decreased, LLM can help us with filtering out bad training material, but the „elbow grease” requirement remains. We will still have to spend our neurons to understand things.
 
-How can tools make it more difficult for bars to achieve training? Let me show you this short video as an example: [a one-minute video showing the use of ChatGPT Plus / Agents for passing a CLE training with minimal human intervention]
+How can tools make it more difficult for bars to achieve training? Let me show you this short video as an example: {a one-minute video showing the use of ChatGPT Plus / Agents for passing a CLE training with minimal human intervention}
 
 The question is, can we use the electronic training methods the same way? Will this remote assessment be enough in the future should everyone cheat? Impersonation on the internet is not just a problem of frauds, it also changes the perception we have regarding the importance of things, where we are not present in person. AI agents can impersonate us even in training, remote hearings, client conferences, webinars etc.
 
