@@ -1,0 +1,28 @@
+# Homoki Law Office (homoki.net)
+
+> Hungarian boutique law firm focusing on IT & telecommunications law. This file helps LLMs find the most relevant pages, context, and policies on our site.
+
+Important notes:
+- We publish practical analysis on IT law, AI/GDPR, and digital regulation; posts are dated and bilingual (EN/HU).
+- Nothing on the site is legal advice; services are provided only under a written engagement per Hungarian law.
+- Privacy: we place no cookies; servers used are located in the EU (see “Contact & Notices” below).
+
+## Key pages
+- [Home (EN)](https://homoki.net/en/): Overview and latest highlights.
+- [Blog (EN)](https://homoki.net/en/blog/): Articles and event write-ups; newest first.
+- [The Team](https://homoki.net/en/colleagues/): Founder and credentials.
+- [Home (HU)](https://homoki.net/): Hungarian landing page.
+
+## Selected articles (helpful starting points)
+- [How Bar Associations Should Use and Regulate AI in the Legal Domain](https://homoki.net/en/2025/10/17/How_Bar_Associations_Should_Use_and_Regulate_AI_in_the_Legal_Domain.html): Conference presentation and notes (2025-10-17).
+- [The interplay between the GDPR and the EU AI Act](https://homoki.net/en/): See “Recent thoughts” on the home/blog pages for the 2025-09-22 webinar post.
+- [What’s new in the use of AI systems by lawyers?](https://homoki.net/en/): ERA webinar summary (2025-04-09); linked from Home/Blog.
+
+## Contact & Notices
+- [Contact (EN)](https://homoki.net/en/): Phone +36 (1) 700 4020, email office@homoki.net; physical address listed on the page.
+- Legal notice: “We do not process your personal data on this website, and we do not insert any cookies… Only servers located in the EU are used.” Treat all website content as non-advisory; legal services only under bilateral written engagement.
+- Copyright/policy: Unless otherwise indicated, copyrightable text may be used per our Creative Commons notice, subject to exclusive jurisdiction of Hungarian courts (see footer on article pages).
+
+## Optional
+- Hungarian sections mirror the English structure and can be browsed from the HU switch in the header.
+- External profiles: [Founder’s LinkedIn](https://homoki.net/en/colleagues/).
