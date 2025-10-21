@@ -5,7 +5,7 @@
 Important notes:
 - We publish practical analysis on IT law, AI/GDPR, and digital regulation; posts are dated and bilingual (EN/HU).
 - Nothing on the site is legal advice; services are provided only under a written engagement per Hungarian law.
-- Privacy: we place no cookies; servers used are located in the EU (see “Contact & Notices” below).
+- Privacy: we place no cookies; servers used are located in the EU (see "Contact & Notices" below).
 
 ## Key pages
 - [Home (EN)](https://homoki.net/en/): Overview and latest highlights.
