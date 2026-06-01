@@ -79,8 +79,6 @@ Of course, running the largest open-weight models at home is theoretically possi
 
 [^4]: CCBE (Council of Bars and Law Societies of Europe), *Technical Guide on the Use of AI Tools and Models by Lawyers*, March 2026. Available at <https://www.ccbe.eu/fileadmin/speciality_distribution/public/documents/IT_LAW/ITL_Guides_recommendations/EN_ITL_20260327_CCBE-technical-guide-on-the-use-of-AI-tools-and-models-by-lawyers.pdf>.
 
-* \[TABLE - Lesson 1 cost ladder]
-
 ## 4\. Lesson 2 - Speed, cost, accuracy
 
 From the benchmark:
@@ -88,6 +86,7 @@ From the benchmark:
   * DeepSeek Chat (=non-reasoning Flash): 0.8 s/Q, 66 % accuracy
   * DeepSeek Flash: 10 s/Q, 87 %
   * DeepSeek Pro: 25 s/Q, 85 %
+    
 | Model | Time per question | Cost (580 Q) | Success |
 |---|---:|---:|---:|
 | DeepSeek Chat | ~1 s | ~$0.01 | 66 % |
