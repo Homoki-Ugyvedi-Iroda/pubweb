@@ -54,8 +54,8 @@
   .post-excerpt {
     display: -webkit-box;
     color: var(--color-white);
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 12px;
+    line-height: 18px;
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-line-clamp: 4;
@@ -69,8 +69,8 @@
       display: inline-block;
       color: var(--color-apricot);
       font-family: var(--font-family-bold);
-      font-size: 20px;
-      line-height: 26px;
+      font-size: 16px;
+      line-height: 18px;
       text-transform: uppercase;
     }
   }
