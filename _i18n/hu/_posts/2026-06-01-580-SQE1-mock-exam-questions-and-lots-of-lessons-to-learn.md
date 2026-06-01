@@ -39,7 +39,7 @@ Mindez a kísérletezés **65 dolláromba** került, amely a 19 futtatás közve
 
 ## 2\. SQE1 ranglista 
 
-| Helyezés | Modell (futtatás) | Család | Siker | Költség egy tesztre (580 kérdés, listaár) | mp/kérdés |
+| Helyezés | Modell (futtatás) | Család | Siker | Költség egy tesztre (580 kérdés) | mp/kérdés |
 |---:|---|---|---:|---:|---:|
 | 1 | DeepSeek V4 Flash (2 futás átlaga) | DeepSeek | 86,6 % | ~$0,75 | 11 |
 | 2 | DeepSeek V4 Flash 16K headroom | DeepSeek | 85,9 % | ~$0,87 | 14 |
