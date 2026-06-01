@@ -32,6 +32,24 @@
       text-transform: uppercase;
       text-underline-offset: 3px;
     }
+    table {
+      width: 100%;
+      border-collapse: collapse; 
+      margin: 40px 0; 
+
+      th, td {
+        /* Changed from white to heavy-metal so it shows on a light background */
+        border: 1px solid var(--color-heavy-metal); 
+        padding: 12px;
+        text-align: left;
+      }
+
+      th {
+        font-family: var(--font-family-bold);
+        color: var(--color-apricot); 
+        border-bottom: 2px solid var(--color-apricot); 
+      }
+    }
   }
 
   .highlighted {
