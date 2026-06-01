@@ -82,8 +82,6 @@ Persze a legnagyobb nyílt súlyú modellek otthoni futtatása elméletben lehet
 
 [^4]: CCBE (Council of Bars and Law Societies of Europe / Európai Ügyvédi Kamarák Tanácsa), *Technical Guide on the Use of AI Tools and Models by Lawyers*, 2026. március. Elérhető: <https://www.ccbe.eu/fileadmin/speciality_distribution/public/documents/IT_LAW/ITL_Guides_recommendations/EN_ITL_20260327_CCBE-technical-guide-on-the-use-of-AI-tools-and-models-by-lawyers.pdf>.
 
-* \[TÁBLÁZAT - 1. tanulság költségszerkezet]
-
 ## 4\. 2. tanulság - Sebesség, költség, pontosság
 
 A mérések szerint:
