@@ -39,7 +39,7 @@ This experiment cost me **$65** direct API spend across all 19 runs, drafting, v
 
 ## 2\. An SQE1 leaderboard 
 
-| Rank | Model (run) | Family | Success | Cost per test (580 Q, list price) | sec/Q |
+| Rank | Model (run) | Family | Success | Cost per test (580 Q) | sec/Q |
 |---:|---|---|---:|---:|---:|
 | 1 | DeepSeek V4 Flash (mean of 2 runs) | DeepSeek | 86.6 % | ~$0.75 | 11 |
 | 2 | DeepSeek V4 Flash 16K headroom | DeepSeek | 85.9 % | ~$0.87 | 14 |
