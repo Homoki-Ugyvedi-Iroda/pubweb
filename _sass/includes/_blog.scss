@@ -30,21 +30,19 @@
   table {
     width: 100%;
     border-collapse: collapse; 
-    margin: 40px 0; /* Gives some breathing room above and below the table */
+    margin: 24px 0; 
 
     th, td {
       border: 1px solid var(--color-white); 
       padding: 12px;
       text-align: left;
-      /* Assuming your main blog text is a darker color, you might want to 
-         change this color. If your background is dark, leave it white! */
       color: var(--color-white); 
     }
 
     th {
       font-family: var(--font-family-bold);
-      color: var(--color-apricot); 
-      border-bottom: 2px solid var(--color-apricot); 
+      color: var(--color-heavy-metal); 
+      border-bottom: 2px solid var(--heavy-metal); 
     }
   }
 }
