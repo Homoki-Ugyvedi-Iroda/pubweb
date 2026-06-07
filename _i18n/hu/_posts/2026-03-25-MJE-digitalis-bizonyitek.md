@@ -17,25 +17,6 @@ Az előadás diája [itt](/assets/files/260325_Homoki_Péter_A digitális bizony
 
 ### Az előadás átirata a diák szerint tagolva
 
----
-layout: post
-title:  A digitális bizonyíték valódisága egy átalakuló igazságszolgáltatásban
-date:   2026-03-25 10:00:00 +0200
-author: dr. Homoki Péter
-image: "Digitalis-proveniencia-eloadashoz.jpg"
-tags:
-  - Magyar Jogász Egylet
-  - digitális bizonyítékok
----
-
-
-# Budapest, 2026. március 25.
-
-A Magyar Jogász Egylet megrendezte az Algoritmus a tárgyalóteremben – A mesterséges intelligencia és a polgári perek című konferenciáját (Budapest, 1054 Báthory u. 10. VII. emelet, 2026. március 25. (szerda) 10:00-13:00). A konferencián a digitális bizonyítékokról adtam elő.
-Az előadás diája [itt](/assets/files/260325_Homoki_Péter_A digitális bizonyíték valódisága egy átalakuló igazságszolgáltatásban__Algoritmus a tárgyalóteremben – A mesterséges intelligencia és a polgári perek.pdf) érhető el.
-
-### Az előadás átirata a diák szerint tagolva
-
 **[1. oldal]** Köszönöm a lehetőséget, hogy ma erről előadhatok. Egy idősebb, köztiszteletben álló, büntetős ügyvéd kollégával beszélgettem, aki nemrég nyugdíjba vonult, és mondta, hogy nem irigyli a fiatalabb kollégákat. Egy példát hozott föl, hogy miért nem irigyli a mai ügyvédeket, és ez pont az volt, hogy mennyire el fognak terjedni a hamisított videófelvételek, és mennyivel megnehezíti ez majd az eljárásokat. Ezért is nagyon örültem a felkérésnek, hogy erről a témáról tartsak előadást, mert így legalább volt indokom arra, hogy végiggondoljam ezt a nagyon is gyakorlatias kérdéskört: hogyan érinti mindez a napi gyakorlatot az ügyvédek, de a bíróságon vagy az ügyészségen dolgozó jogászkollégáknak is milyen fejtörést fog ez okozni. Az előadásban három főbb témáról szeretnék beszélni.
 
 **[2. oldal]** Az első az a kérdés, hogy miért aggódunk a digitális bizonyítékok kapcsán? Mi az oka annak, hogy úgy gondoljuk, itt egy kicsit más a problémakör? A második téma az lesz, hogy miért nem kell a digitális bizonyítékok körében annyira aggódnunk. A harmadik pedig talán a legaggasztóbb: na de azért mégis aggódnunk kell, ha nem is pont úgy, ahogy gondoltuk. A harmadik rész ugyanis arról fog szólni, hogy kik lesznek azok az új, súlyponti szereplők, akiknek a perjogi jelentősége még marginális, de a bizonyítékok szempontjából kulcsfontosságúak lesznek az elkövetkezendő 10-20 évben. 
