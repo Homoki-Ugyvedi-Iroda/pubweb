@@ -103,7 +103,7 @@ Opijnen M van and others, 'On-Line Publication of Court Decisions in the EU: Rep
 
 Raza v Bulgaria \[2010\] ECtHR 31465/08 § 53
 
-# CHAPTER 3: Complete and final anonymisation of court documents is unattainable -- the aim should be a generally accepted degree of anonymity, considering at least a) the type of document being anonymised, the content of and data included in the document, b) the type of court and court procedure, c) participation of the affected persons in the procedure, d) the control courts will retain over the anonymised documents
+# CHAPTER 3: Complete and final anonymisation of court documents is unattainable
 
 ## Introduction
 
@@ -111,13 +111,13 @@ Based on the current rules of data protection, it is not possible to finally and
 
 In many court documents, it is either technically impossible or legally undesirable to achieve anonymisation in the sense of avoiding the applicability of a personal data protection regime (see also principle CHAPTER 4).
 
-Anonymisation can only be understood as a tool to enhance a given state of protection of personal data.
+Anonymisation can only be understood as a tool to enhance a given state of protection of personal data. 
 
 That also means that the risk of (re)identification of the affected natural persons will normally remain present, even if just for a restricted set of third parties, and also that the effective tools of anonymisation depend not only on the content of the document, but on factors external to the document, that only court officials can take into account.
 
 For that purpose, policy frameworks for anonymisation of courts should take into account factors listed in the principle.
 
-Current rules of data protection also mandate courts to allow the exercise of the right to erasure of personal data. However, courts should also be mindful of the significant risks of such retroactive anonymisation of court documents (and recordings, etc.), including the lack of control over previously anonymised and published documents, so retroactive anonymisation should only be allowed in exceptional cases.
+Current rules of data protection also mandate courts to allow the exercise of the right to erasure of personal data. However, courts should also be mindful of the significant risks of such retroactive anonymisation of court documents (and recordings, etc.), including the lack of control over previously anonymised and published documents, so retroactive anonymisation should only be allowed in exceptional cases. The aim should be a generally accepted degree of anonymity, considering at least a) the type of document being anonymised, the content of and data included in the document, b) the type of court and court procedure, c) participation of the affected persons in the procedure, d) the control courts will retain over the anonymised documents
 
 ## Explanation
 
