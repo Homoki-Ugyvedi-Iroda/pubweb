@@ -55,9 +55,9 @@ Nikolova and Vandova v Bulgaria \[2013\] ECtHR 20688/04 §§ 64--86
 
 Ryakib Biryukov v Russia \[2008\] ECtHR 14810/02 §§ 19--25.
 
-Cécile Chainais, 'Open Justice and the Principle of Public Access to Hearings in the Age of Information Technology: Theoretical Perspectives and Comparative Law', *Open Justice* (Nomos Verlagsgesellschaft mbH & Co KG 2019) pp. 64--65 \<https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice\> accessed 27 August 2023.
+Cécile Chainais, 'Open Justice and the Principle of Public Access to Hearings in the Age of Information Technology: Theoretical Perspectives and Comparative Law', *Open Justice* (Nomos Verlagsgesellschaft mbH & Co KG 2019) pp. 64--65 <https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice> accessed 27 August 2023.
 
-Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, \<http://data.europa.eu/eli/C/2025/437/oj\> accessed 20 June 2026
+Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, <http://data.europa.eu/eli/C/2025/437/oj> accessed 20 June 2026
 
 # CHAPTER 2: Rules of anonymisation must be transparent and practical
 
@@ -97,9 +97,9 @@ Regardless of advances in the automatic anonymisation, the requirement of manual
 
 ## References
 
-Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, \<http://data.europa.eu/eli/C/2025/437/oj\> accessed 20 June 2026
+Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, <http://data.europa.eu/eli/C/2025/437/oj> accessed 20 June 2026
 
-Opijnen M van and others, 'On-Line Publication of Court Decisions in the EU: Report of the Policy Group of the Project Building on the European Case Law Identifier' \[2017\] SSRN Electronic Journal \<https://www.ssrn.com/abstract=3088495\> accessed 29 June 2022
+Opijnen M van and others, 'On-Line Publication of Court Decisions in the EU: Report of the Policy Group of the Project Building on the European Case Law Identifier' \[2017\] SSRN Electronic Journal <https://www.ssrn.com/abstract=3088495> accessed 29 June 2022
 
 Raza v Bulgaria \[2010\] ECtHR 31465/08 § 53
 
@@ -141,13 +141,13 @@ Courts deciding on whether to grant such ex-post anonymisation requests, have to
 
 ## References
 
-Article 29 Data Protection Working Party, 'Opinion 4/2007 on the Concept of Personal Data' (2007) WP 136, 01248/07/EN \<https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2007/wp136_en.pdf\>
+Article 29 Data Protection Working Party, 'Opinion 4/2007 on the Concept of Personal Data' (2007) WP 136, 01248/07/EN <https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2007/wp136_en.pdf>
 
 CJ v Court of Justice of the European Union \[2019\] Court of Justice of the European Union T-1/19.
 
 CJ v Court of Justice of the European Union \[2020\] Court of Justice of the European Union (Seventh Chamber) C-634/19 P.
 
-Deuber D, Keuchen M and Christin N, 'Assessing Anonymity Techniques Employed in German Court Decisions: A {De-Anonymization} Experiment' (2023) \<https://www.usenix.org/conference/usenixsecurity23/presentation/deuber\> accessed 22 August 2023
+Deuber D, Keuchen M and Christin N, 'Assessing Anonymity Techniques Employed in German Court Decisions: A {De-Anonymization} Experiment' (2023) <https://www.usenix.org/conference/usenixsecurity23/presentation/deuber> accessed 22 August 2023
 
 European Court of Human Rights: Rules of Court Practice Directions p. 68, Requests for anonymity, \<<https://www.echr.coe.int/documents/d/echr/PD_anonymity_ENG>\> accessed 28 Januyr 2024
 
@@ -191,15 +191,15 @@ It is also expected that an increased ratio of published court decisions will be
 
 ## References
 
-Opijnen M van and others, 'On-Line Publication of Court Decisions in the EU: Report of the Policy Group of the Project Building on the European Case Law Identifier' \[2017\] SSRN Electronic Journal \<https://www.ssrn.com/abstract=3088495\> accessed 29 June 2022
+Opijnen M van and others, 'On-Line Publication of Court Decisions in the EU: Report of the Policy Group of the Project Building on the European Case Law Identifier' \[2017\] SSRN Electronic Journal <https://www.ssrn.com/abstract=3088495> accessed 29 June 2022
 
-Jean-Claude Wiwinius, 'Public Hearings in Civil Proceedings: From the Perspective of a Luxembourgish Judge', *Open Justice*, vol 13 (1st edn, Nomos Verlagsgesellschaft mbH & Co KG 2019) p. 101 \<https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice\> accessed 27 August 2023. *See* also Michal Bobek, 'Epilogue: Past and Looming Challenges to Open Justice', *Open Justice*, ibid p. 292--301.
+Jean-Claude Wiwinius, 'Public Hearings in Civil Proceedings: From the Perspective of a Luxembourgish Judge', *Open Justice*, vol 13 (1st edn, Nomos Verlagsgesellschaft mbH & Co KG 2019) p. 101 <https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice> accessed 27 August 2023. *See* also Michal Bobek, 'Epilogue: Past and Looming Challenges to Open Justice', *Open Justice*, ibid p. 292--301.
 
-Deuber D, Keuchen M and Christin N, 'Assessing Anonymity Techniques Employed in German Court Decisions: A {De-Anonymization} Experiment' (2023) \<https://www.usenix.org/conference/usenixsecurity23/presentation/deuber\> accessed 22 August 2023
+Deuber D, Keuchen M and Christin N, 'Assessing Anonymity Techniques Employed in German Court Decisions: A {De-Anonymization} Experiment' (2023) <https://www.usenix.org/conference/usenixsecurity23/presentation/deuber> accessed 22 August 2023
 
-Article 29 Data Protection Working Party, 'Opinion 05/2014 on Anonymisation Techniques' (2014) WP 216, 0829/14/EN pp. 11--12 \<https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf\>.
+Article 29 Data Protection Working Party, 'Opinion 05/2014 on Anonymisation Techniques' (2014) WP 216, 0829/14/EN pp. 11--12 <https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf>.
 
-Emily M Weitzenboeck and others, 'The GDPR and Unstructured Data: Is Anonymization Possible?' (2022) p. 12 International Data Privacy Law 184 \<https://doi.org/10.1093/idpl/ipac008\> accessed 30 August 2023.
+Emily M Weitzenboeck and others, 'The GDPR and Unstructured Data: Is Anonymization Possible?' (2022) p. 12 International Data Privacy Law 184 <https://doi.org/10.1093/idpl/ipac008> accessed 30 August 2023.
 
 # CHAPTER 5: Anonymisation of court hearings, recordings and decisions should be based on the same framework, but providing access to such information should take into account the differences
 
@@ -237,11 +237,11 @@ Such practical costs and difficulties justify different treatment of the publici
 
 ## References
 
-Burkhard Hess and Ana Koprivica Harvey (eds), *Open Justice: The Role of Courts in a Democratic Society* (Nomos Verlagsgesellschaft Mbh & Co 2019) § 9. \<https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice\> accessed 27 August 2023
+Burkhard Hess and Ana Koprivica Harvey (eds), *Open Justice: The Role of Courts in a Democratic Society* (Nomos Verlagsgesellschaft Mbh & Co 2019) § 9. <https://www.nomos-elibrary.de/10.5771/9783845297620/open-justice> accessed 27 August 2023
 
 Cécile Chainais, 'Open Justice and the Principle of Public Access to Hearings in the Age of Information Technology: Theoretical Perspectives and Comparative Law', *ibid,* pp. 64--65.
 
-Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, \<http://data.europa.eu/eli/C/2025/437/oj\> accessed 20 June 2026
+Council of the European Union, European e-Justice Strategy 2024-2028, C/2025/437, OJ C, 16.1.2025, <http://data.europa.eu/eli/C/2025/437/oj> accessed 20 June 2026
 
 *Magyar Helsinki Bizottság v Hungary* \[2016\] ECtHR \[GC\] 18030/11.
 
