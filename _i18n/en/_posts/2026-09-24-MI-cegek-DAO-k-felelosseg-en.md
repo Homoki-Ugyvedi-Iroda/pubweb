@@ -12,8 +12,6 @@ tags:
 ---
 
 
-# Automated companies, DAOs and liability – the Argentine draft Companies Act
-
 The presentation in PDF: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
 
 ## Slide 2 – A dialogue in the Financial Times
