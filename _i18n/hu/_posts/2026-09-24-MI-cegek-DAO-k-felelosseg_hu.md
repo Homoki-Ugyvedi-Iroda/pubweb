@@ -3,7 +3,7 @@ layout: post
 title:  Automatizált társaságok, DAO-k és felelősség – az argentin társasági törvénytervezet
 date:   2026-09-24 10:00:00 +0200
 author: dr. Homoki Péter
-image: original/2026_09_24__Szolnok_MJE.jpg
+image: 2026_09_24__Szolnok_MJE.jpg
 tags: 
   - MI
   - DAO
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Az előadáshoz diái: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
+Az előadáshoz diái: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/files/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
 
 ## 2\. dia – Párbeszéd a Financial Timesban
 
