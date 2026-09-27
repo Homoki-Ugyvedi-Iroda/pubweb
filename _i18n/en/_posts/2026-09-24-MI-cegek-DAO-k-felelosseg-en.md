@@ -3,7 +3,7 @@ layout: post
 title:  Automated companies, DAOs and liability – the Argentine draft Companies Act
 date:   2026-09-24 10:00:00 +0200
 author: Dr Péter Homoki
-image: original/2026_09_24__Szolnok_MJE_en.jpg
+image: 2026_09_24__Szolnok_MJE_en.jpg
 tags: 
   - AI
   - DAO
@@ -12,7 +12,7 @@ tags:
 ---
 
 
-The presentation in PDF: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
+The presentation in PDF: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/files/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
 
 ## Slide 2 – A dialogue in the Financial Times
 
