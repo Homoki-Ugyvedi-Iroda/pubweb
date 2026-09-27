@@ -12,8 +12,6 @@ tags:
 ---
 
 
-# Automatizált társaságok, DAO-k és felelősség – az argentin társasági törvénytervezet
-
 Az előadáshoz diái: [20260924_Szolnok_Homoki_argentin_tvtervezet.pdf](/assets/20260924_Szolnok_Homoki_argentin_tvtervezet.pdf)
 
 ## 2\. dia – Párbeszéd a Financial Timesban
