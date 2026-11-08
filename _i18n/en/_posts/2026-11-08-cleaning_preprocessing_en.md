@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  What we do when cleaning court decision data, and why
-date:   2026-11-10 08:00:00 +0200
+date:   2026-11-09 08:00:00 +0200
 author: Dr. Péter Homoki
 image: cleaning_preprocessing_separators.jpg
 tags: 

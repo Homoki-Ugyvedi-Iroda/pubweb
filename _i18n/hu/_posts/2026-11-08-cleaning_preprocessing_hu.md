@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Mit és miért csinálunk a döntések adattisztításakor?
-date:   2026-11-10 08:00:00 +0200
+date:   2026-11-09 08:00:00 +0200
 author: dr. Homoki Péter
 image: cleaning_preprocessing_separators.jpg
 tags: 
