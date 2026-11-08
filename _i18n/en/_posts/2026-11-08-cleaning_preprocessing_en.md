@@ -15,7 +15,7 @@ tags:
 
 ## Preprocessing and data cleaning
 
-Following the [previous blog post](/_i18n/en/_posts/2026-11-01-OCR_legal_dataset_en.html), we were able to turn images into text (OCR), including the documents that had no text layer. Now nothing can stop us from putting the huge dataset to use, right?
+Following the [previous blog post](/2026-11-01-OCR_legal_dataset_en.html), we were able to turn images into text (OCR), including the documents that had no text layer. Now nothing can stop us from putting the huge dataset to use, right?
 
 We could start searching the data right away, and in most cases we probably would not even notice the difference: there are so many decisions that we will immediately get some kind of seemingly usable result. But that is exactly the trap. If we look more closely into a great many decisions, or simply run various analyses on them with due care, we will see that many of the downloaded datasets are teeming with errors, and if we start using our system like this, sooner or later it will affect the results too.
 
@@ -53,7 +53,7 @@ Of course, we find not only conversion errors: the source text produced by the c
 
 ## Data errors in the individual datasets
 
-Let us review the individual datasets in terms of the errors above (for the abbreviations, see the earlier [blog post](/_i18n/en/_posts/2026-10-25-legal_datasets_dl_en.html)).
+Let us review the individual datasets in terms of the errors above (for the abbreviations, see the earlier [blog post](2026-10-25-legal_datasets_dl_en.html)).
 
 |Phenomenon | bar disciplinary | notice contracts | AB | NKFH | GVH | domain.hu | SZTNH | NAIH | BHGY |
 |---|---|---|---|---|---|---|---|---|---|
