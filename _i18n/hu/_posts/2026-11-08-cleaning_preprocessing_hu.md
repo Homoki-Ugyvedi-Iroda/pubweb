@@ -15,7 +15,7 @@ tags:
 
 ## Az előfeldolgozás és adattisztítás
 
-A korábbi [blogbejegyzésben](/_i18n/hu/_posts/2026-11-01-OCR_legal_dataset_hu.md) leírtak alapján szöveggé tudtuk alakítani a képeket (OCR), és a szövegréteg nélküli dokumentumokat is. Most már semmi sem tarthat minket vissza attól, hogy az óriási adatkészletet hasznosítsuk, ugye?
+A korábbi [blogbejegyzésben](/_i18n/hu/_posts/2026-11-01-OCR_legal_dataset_hu.html) leírtak alapján szöveggé tudtuk alakítani a képeket (OCR), és a szövegréteg nélküli dokumentumokat is. Most már semmi sem tarthat minket vissza attól, hogy az óriási adatkészletet hasznosítsuk, ugye?
 
 Akár most is elkezdhetnénk keresni az adatokat, és a legtöbb esetben valószínűleg észre sem vennénk a különbséget, hiszen annyi döntésről van szó, így azonnal valamifajta, látszólag használható eredményt fogunk kapni. De éppen ez a csapda: ha alaposabban belenézünk sok-sok döntésbe, vagy csak megfelelő alapossággal különféle elemzéseket végzünk rajtuk, látni fogjuk, hogy a letöltött adatkészletek közül sok hemzseg a hibáktól, és ha így kezdjük el használni a rendszerünket, az előbb-utóbb kihatással lesz az eredményekre is.
 
@@ -53,7 +53,7 @@ Természetesen nem csak átalakítási hibákat találhatunk, hanem már a bír�
 
 ## Az egyes adathibák az adatkészletekben
 
-Az egyes adatkészleteket nézzük át a fenti hibák szempontjaiból (az egyes rövidítések feloldását lásd a korábbi [blogbejegyzésben](/_i18n/hu/_posts/2026-10-25-legal_datasets_dl_hu.md)).
+Az egyes adatkészleteket nézzük át a fenti hibák szempontjaiból (az egyes rövidítések feloldását lásd a korábbi [blogbejegyzésben](/_i18n/hu/_posts/2026-10-25-legal_datasets_dl_hu.html)).
 
 |Jelenség | fegyelmi | hird. szerződés | AB | NKFH | GVH | domain.hu | SZTNH | NAIH | BHGY |
 |---|---|---|---|---|---|---|---|---|---|
