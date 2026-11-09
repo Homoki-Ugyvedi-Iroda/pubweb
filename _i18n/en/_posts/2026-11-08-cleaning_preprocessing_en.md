@@ -107,6 +107,8 @@ Data cleaning also matters because it lets us get to know the characteristics an
 
 Thanks to data cleaning, however, we can now confidently set out on the next part: with what methods and under what conditions we can search legal texts effectively ("information retrieval for lawyers").
 
+I have published the tools used for data cleaning, a general technical description of the steps and the reviewed word lists on [GitHub](https://github.com/Homoki-Ugyvedi-Iroda/hu-legal-text-cleaning). These include, for example, 359 words that are correct in legal texts but unknown to the Hunspell spell checker, 846 abbreviations found in court decisions with their meanings, and 127 common typos and OCR errors with their corrections. The downloaded and cleaned decisions and the scores from the character-based language model are not published.
+
 [^1]: Jiawei Han, Micheline Kamber, Jian Pei: Data Mining: Concepts and Techniques, 3rd edition, Morgan Kaufmann, 2012, pp. 85–86.
 [^2]: For example, the text "éííööáéöÉőíéöéa budapesti xx.," scores only 119, although to a human eye it looks strikingly "odd".
 [^RTF]: Microsoft's own public specification, created to ease document exchange between different word-processing tools.

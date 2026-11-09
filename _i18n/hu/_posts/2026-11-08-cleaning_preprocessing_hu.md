@@ -106,6 +106,8 @@ Ha magunk látunk neki az adattisztításnak gépi segítséggel, figyeljünk ar
 Az adattisztítás művelete azért is fontos, mert ezzel jobban megismerjük az adatkészlet egyes jellemzőit, típusait anélkül, hogy mind a kétszázezer döntést el kellene olvasnunk. Megtalálhatjuk a leghosszabb és a legrövidebb ítéleteket, rátalálhatunk a BHGY-ban elrejtett húsvéti tojásokra és kakukktojásokra, mint a 7.000 közigazgatási határozat (ezek a bíróság által felülvizsgált hatósági döntések, amelyeket a bírósági határozat mellé, külön fájlként tettek közzé), vagy az anonimizálás ellenére benn maradt személyes adatok.
 
 Az adattisztításnak köszönhetően azonban már bátran nekivághatunk a következő résznek: milyen módszerekkel és feltételekkel tudunk jogi szövegekben hatékonyan keresni ("információvisszakeresésről jogászoknak").
+
+Az adattisztításhoz használt eszközöket, a lépések általános, technikai leírását és az ellenőrzött szólistákat közzétettem a [GitHubon](https://github.com/Homoki-Ugyvedi-Iroda/hu-legal-text-cleaning). Megtalálható például a jogi szövegekben helyes (vagy még az előző helyesírási szabályzat alapján helyes), de a Hunspell helyesírás-ellenőrző által nem ismert vagy hibásként jelölt 359 szó, a bírósági határozatokban talált 846 rövidítés a jelentésével, valamint 127 gyakori elírás és OCR-hiba a javításával. A letöltött és megtisztított döntések, valamint a karakteralapú nyelvi modellel végzett pontozások nincsenek közzétéve.
   
 [^1]: Jiawei Han, Micheline Kamber, Jian Pei: Data Mining: Concepts and Techniques, 3. kiadás, Morgan Kaufmann, 2012, 85–86. oldal.
 [^2]: Például a "éííööáéöÉőíéöéa budapesti xx.," szöveg értéke csak 119, noha emberi ránézésre feltűnően "furcsa".
