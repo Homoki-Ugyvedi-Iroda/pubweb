@@ -36,14 +36,28 @@
   </div>
   <div class="nav-secondary">
 
+    {% comment %}
+      Address of this page in the other language. Posts whose file names end in
+      _hu / _en get the suffix swapped; a post named differently sets
+      translation_url in its front matter (the other version's address without /en).
+    {% endcomment %}
+    {% if page.translation_url %}
+      {% assign switch_path = page.translation_url %}
+    {% elsif site.lang == "hu" %}
+      {% assign switch_path = page.url | replace: "_hu.html", "_en.html" %}
+    {% else %}
+      {% assign switch_path = page.url | replace: "_en.html", "_hu.html" %}
+    {% endif %}
+    {% if site.lang == "hu" %}
+      {% capture switch_link %}{{ site.baseurl_root }}/en{{ switch_path }}{% endcapture %}
+      {% assign switch_label = "EN" %}
+    {% else %}
+      {% capture switch_link %}{{ site.baseurl_root }}{{ switch_path }}{% endcapture %}
+      {% assign switch_label = "HU" %}
+    {% endif %}
+
     <div class="language-switcher">
-      {% if site.lang == "hu" %}
-      {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
-      <a href="{{ link1 }}">EN</a>
-      {% elsif site.lang == "en" %}
-      {% capture link2 %}{{ site.baseurl_root }}{{ page.url }}{% endcapture %}
-      <a href="{{ link2 }}">HU</a>
-      {% endif %}
+      <a href="{{ switch_link }}">{{ switch_label }}</a>
     </div>
 
     <div id="mobile-menu" class="mobile">
@@ -73,15 +87,7 @@
         {% endfor %}
 
         <div class="mobile-menu-item mobile-language-switcher">
-          {% if site.lang == "hu" %}
-          {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{%
-          endcapture %}
-          <a href="{{ link1 }}">EN</a>
-          {% elsif site.lang == "en" %}
-          {% capture link2 %}{{ site.baseurl_root }}{{ page.url }}{% endcapture
-          %}
-          <a href="{{ link2 }}">HU</a>
-          {% endif %}
+          <a href="{{ switch_link }}">{{ switch_label }}</a>
         </div>
 
       </div>

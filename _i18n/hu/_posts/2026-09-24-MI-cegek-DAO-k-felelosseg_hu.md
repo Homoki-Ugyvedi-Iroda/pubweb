@@ -2,6 +2,7 @@
 layout: post
 title:  Automatizált társaságok, DAO-k és felelősség – az argentin társasági törvénytervezet
 date:   2026-09-24 10:00:00 +0200
+translation_url: /2026/09/24/MI-cegek-DAO-k-felelosseg-en.html
 author: dr. Homoki Péter
 image: 2026_09_24__Szolnok_MJE.jpg
 tags: 

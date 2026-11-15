@@ -2,6 +2,7 @@
 layout: post
 title:  Automated companies, DAOs and liability – the Argentine draft Companies Act
 date:   2026-09-24 10:00:00 +0200
+translation_url: /2026/09/24/MI-cegek-DAO-k-felelosseg_hu.html
 author: Dr Péter Homoki
 image: 2026_09_24__Szolnok_MJE_en.jpg
 tags: 
