@@ -40,7 +40,7 @@ Tegyük fel, hogy szeretnénk a teljes BHGY-ban (225.407 fájl 2.907 mappában, 
 
 Nem véletlen, hogy az agentikus keretrendszerek is a grep programot használják alapértelmezetten keresésre, mert sok esetben nincsen szükség arra, hogy tárgymutatókat építsenek, vagy ennél bármiben bonyolultabb keresőmunkafolyamatot alakítsanak ki: a kereséssel kapcsolatos instrukcióból a nagy nyelvi modell kitalálja, hogy milyen kulcsszavakat érdemes keresnie a grep segítségével, majd az eredményeket összesíti, szükség esetén tovább szűri.
 
-Professzionális felhasználás esetén ennek a módszernek azonban sok olyan hátránya is van, amiről nem szabad megfeledkezni: ha túl sok találatot kapunk, vagy ha egy-egy szóváltozatra keresünk, de más, hasonló szóváltozatokra is szeretnénk találatot kapni (pl. szerződéseknek)
+Professzionális felhasználás esetén ennek a módszernek azonban sok olyan hátránya is van, amiről nem szabad megfeledkezni: ha túl sok találatot kapunk, vagy ha egy-egy szóváltozatra keresünk, de más, hasonló szóváltozatokra is szeretnénk találatot kapni (pl. szerződések esetén megállapodásra is).
 
 ## A tárgymutatózás
 
